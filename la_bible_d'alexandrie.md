@@ -61,8 +61,8 @@
 
 57: "L'absence de vocalisation autorise plusieurs constructions syntaxiques, eet l'on a ainsi releve une propension du traducteur a lire nombre de verbes hebreux comme des passifs au lieu d'actifs."
 
-60: "...on ne peut exclure que certains doublets soient la consequence de difficultes textuelles ou d'erreurs de copistes."
-> Doublets (stock phrases repeated)
+60: "...le doublet, d'est-a-dire la presence de deux stiques quasiment identiques en deux endroits du livre, est une donnee particulierement interessante puisqu'elle offre simultanement une equivalence lexicale et syntaxique."
+> Doublets (MT)
 ```
 1,8b :: 6,20b
 2,16b :: 7,5b
@@ -99,3 +99,4 @@
 26,7b :: 26,9b
 26,12ab :: 29,20ab
 ```
+60: "...on ne peut exclure que certains doublets soient la consequence de difficultes textuelles ou d'erreurs de copistes. Plusieurs exemples ne permettent aucune comparaison en grec : ceux qui mettent en jeu un verset absent de la LXX (11,4 ; 16,2 ; 19,1 ; 20,16) ou le verset 18,8 qui, curieusement, est dans la LXX un doublet de 19,15 et non pas de 26,22...Dans presque tous les autre cas, on constate dans la LXX un ecart plus ou moins grand entre lex deux membres du doublet...Le phenomene le plus frequent dans le traitement des doublets est l'introduction d'une variation lexicale, sans grande portee semantique."

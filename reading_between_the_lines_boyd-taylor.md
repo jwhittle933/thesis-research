@@ -56,3 +56,5 @@
 108: "Under the assumption of interlinearity, each text is to be characterized in relation to a paradigm in which the aim of the translator was not to produce an acceptable product in the target culture but rather a text isomorphic to its parent."
 
 316: "On the assumption of interlinearity, the typica Septuagint translation was produced along the lines of an ancient school text."
+
+324: "Tranlators, by definition, belong to the target culture."
