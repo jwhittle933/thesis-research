@@ -52,3 +52,50 @@
 29,25cd (R) 
 31,29b (T) - 31,30b (T)
 ```
+
+52: "Ces deux exemples sont typiques de la necessite d'etudier les _Proverbes_ LXX comme un veritable texte et non comme la copie plus ou moins aberrante d'un model hebreu suppose inangible."
+
+53: "La theme de la << Loi >>, _nomos_ sans autre determinant, n'est pas specialement mis en valeur par le traducteur des _Proverbes_ : ainsi _torah_ n'est pas systematiquement traduit par _nomos_."
+
+57: "...les _Proverbes_ LXX ne semblent pas deriver d'un texte hebreu tres different de celui que nous fait connaitre le TM"
+
+57: "L'absence de vocalisation autorise plusieurs constructions syntaxiques, eet l'on a ainsi releve une propension du traducteur a lire nombre de verbes hebreux comme des passifs au lieu d'actifs."
+
+60: "...on ne peut exclure que certains doublets soient la consequence de difficultes textuelles ou d'erreurs de copistes."
+> Doublets (stock phrases repeated)
+```
+1,8b :: 6,20b
+2,16b :: 7,5b
+6,10 + 11 :: 24,33 + 34
+6,15b :: 29,1b
+10,1ab :: 15,20ab
+10,2 :: 11,4
+10,8b :: 10,10b
+10,15a :: 18,11a
+11,14b :: 24,6b
+11,21a :: 16,5b
+12,11ab :: 28,19ab
+13,14b :: 14,27b
+14,12ab :: 16,25ab
+15,8a :: 21,27a
+15,33b :: 18,12b
+16,2 :: 21,2
+17,3a :: 27,21a
+18,8 :: 26,22
+19,1 :: 28,6
+19,5ab :: 19,9ab
+19,12a :: 20,2a
+19,13b :: 27,15
+19,25ab :: 21,11ab
+19,24ab :: 26,15ab
+20,16 :: 27,13
+21,9ab :: 25,24ab
+22,2ab :: 29,13ab
+22,3ab :: 27,12ab
+22,13ab :: 26,13ab
+22,28a :: 23,10a
+23,3a :: 23,6b
+23,18ab :: 24,14bc
+26,7b :: 26,9b
+26,12ab :: 29,20ab
+```
