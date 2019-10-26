@@ -1,6 +1,5 @@
 # Thesis
-
-## (Tentative) Title: "Additions, Expansions, Interpretations, and Doubles in the Translation of OG Proverbs 1-9"
+*(Tentative) Title*: "Additions, Expansions, Interpretations, and Doubles in the Translation of OG Proverbs 1-9"
 ### Todo:
 - [ ] 5000 word writing sample
 
