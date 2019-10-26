@@ -17,3 +17,38 @@
 46: "...toutes les sections des _Proverbes_ sauf le libret IIB nous montrent que que le traducteur LXX a largement respete le equivalences habituelles _YHWH-kurios_ / _elohim-theos_"
 
 48: "...les << omissions >> de la LXX ne s'apparentent pas a un processus d'ordre redactionel imputable au traducteur... Les cas de figure theoriques sont au nombre de quatre:  additions imputables au << traducteur >> lui-meme (page suivante << T >>), versets attributables a un correcteur ou << reviseur >> (<< R >>), gloses ulterieures (<< gl >>) et enfin accidents ou erreurs de copiste (<< cp >>)."
+
+49: "...une liste de ces << additions >> de la LXX, avec, entre parentheses, notre proposition d'attribution:"
+> Distinction between uppercase (A) and lowercase (a) designations?
+```
+1,7ab (T) - 1,14c (R) - 1,21b (T) - 1,27d (cp)
+2,2b (T/R?) - 2,3b (T/R?) - 2,17a (T) - 2,19c (T/R?) - 2,21cd (R)
+3,6c (T/gl?) - 3,15bc (T) - 3,16A (T/gl?) - 3,22A (T/gl?) - 3,28c (T/gl?)
+4,10b (T/R?) - 4,27AB (T)
+5,3a (T) - 5,5c (T) - 5,23b (T)
+6,8ABC (T) - 6,11A (T) - 6,25b (T)
+7,1A (T)
+8,10b (T) - 8,21A (T)
+9,6b (T) - 9,10A (gl) - 9,12ABC (T) - 9,18ABCD (T)
+10,4A (T)
+11,16 (T)
+12,11A (T) - 12,13A (T) - 12,26 (T)
+13,9A (T) - 13,11c (T) - 13,12b (T) - 13,13A (T) - 13,15b (gl)
+14,22ab (R)
+15,1a (T) - 15,6cd (R) - 15,18ab (T) -
+16,7 (T) - 16,8 (T) - 16,17 (T) - 16,30c (T)
+17,5c (T) - 17,6A (T) - 17,16 (cp) - 17,17 (T) - 17,21c (T)
+18,22A (T)
+19,7cde (T)
+22,8Ab (cp) - 22,9A (T) - 22,14A (T)
+23,31b (T)
+24,22ABCDE (T)
+30,31b (T)
+31,2b (T)
+25,10c (T) - 25,10A (T) - 25,20A (T)
+26,11A (gl)
+27,20A (T) -27,21A (T)
+28,10d (cp + gl) - 28,17A (cp)
+29,25cd (R) 
+31,29b (T) - 31,30b (T)
+```
