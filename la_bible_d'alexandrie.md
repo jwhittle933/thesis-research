@@ -100,3 +100,5 @@
 26,12ab :: 29,20ab
 ```
 60: "...on ne peut exclure que certains doublets soient la consequence de difficultes textuelles ou d'erreurs de copistes. Plusieurs exemples ne permettent aucune comparaison en grec : ceux qui mettent en jeu un verset absent de la LXX (11,4 ; 16,2 ; 19,1 ; 20,16) ou le verset 18,8 qui, curieusement, est dans la LXX un doublet de 19,15 et non pas de 26,22...Dans presque tous les autre cas, on constate dans la LXX un ecart plus ou moins grand entre lex deux membres du doublet...Le phenomene le plus frequent dans le traitement des doublets est l'introduction d'une variation lexicale, sans grande portee semantique."
+
+64: "La seul releve des qualificatifs additionnels manifest clairement la bipolarite dont ils procedent, bipolarite qui est une structure fondementale du livre, opposant constamment deux voies, la bonne et la mauvaise, et deux types humains, le juste et le mechent."
