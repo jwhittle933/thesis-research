@@ -1,5 +1,5 @@
 # Thesis
-**(Tentative) Title**: "Additions, Expansions, Interpretations, and Doubles in the Translation of OG Proverbs 1-9
+**(Tentative) Title**: "Additions, Interpretations, and Doubles in the Translation of OG Proverbs 1-9
 **(Alternative) Title**  : "Seeing Double: Additions, Expansions, and Double Translations in OG Proverbs 1-9"
 ### Todo:
 - [ ] 5000 word writing sample
@@ -11,13 +11,13 @@
 |         2 | 2,17a,19b(?)             |                 | 16                      | 3,19(?),21       |                                   |
 |         3 | 16a,16A,22A,28c(->27:1b) |                 | 6a,12b,18b,22,27a       | 6,15             | 3c(omit),4a(-> 3c OG)             |
 |         4 | 27AB                     |                 | 4-5                     | 10               | 4c(~> 5a OG),5a(omit),7(omit)     |
-|         5 | 3a                       | 5abc            | 23bc                    |                  | 18a (17c MT)                      |
+|         5 | 3a,23b                   |                 | 3c,5abc,19              |                  | 18a(confusion),13(a/b conflated)  |
 |         6 | 8ABC,11A                 | 10              | 2,16                    | 25               | d                                 |
 |         7 | 1A                       |                 | 5b,22c                  |                  |                                   |
 |         8 | 10c,21A                  |                 | 1a,24ab                 |                  | 32-34 (rearrangement)             |
 |         9 | 6b,10A,12ABC,18ABCD      |                 |                         |                  |                                   |
 
-> Personal changes: **1:9** (δέξῃ / הֵם); **1:11** (κοινώνησον / נארבה);  **1:12** (καταπίωμεν αὐτόν / נבלעֵם); **1:23** (ἐγένοντο / תשׁובו); **1:28** (ἐπικαλέσθέ με / יקראנני) **2:20** (ἐπορεύοντο / תֵלֵך), (εὕροσαν / תשׁמר); **3:6** (γνώιζε αὐτήν / דָעֵהוּ); **4:4** (οἵ ἔλεγον καὶ ἐδίδασκόν με / וירֵני ויאמר לי);
+> Personal changes: **1:9** (δέξῃ / הֵם); **1:11** (κοινώνησον / נארבה);  **1:12** (καταπίωμεν αὐτόν / נבלעֵם); **1:23** (ἐγένοντο / תשׁובו); **1:28** (ἐπικαλέσθέ με / יקראנני) **2:20** (ἐπορεύοντο / תֵלֵך), (εὕροσαν / תשׁמר); **3:6** (γνώιζε αὐτήν / דָעֵהוּ); **4:4** (οἵ ἔλεγον καὶ ἐδίδασκόν με / וירֵני ויאמר לי); **5:5** (ἐμῶν χειλέων / שפתיך), (ἐντέλλομαι / ינצרו); **5:9** (πρόῃ / תתן);
 
 > Active/Passive transformations: **1:20** (ὑμνεῖται / תרנָה); **3:33** (εὐλογοῦνται / יבָרֵך);
 
