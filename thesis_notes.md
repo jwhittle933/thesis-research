@@ -49,23 +49,23 @@ Chapter 5: 'Sometimes I'll Start a Sentence and I Don't Even Know Where It's Goi
 
 ## Analyses
 
-## Additions
+### Additions
 
-| Ref | OG  | Hb? | Notes |
-| ___ | ___ | ___ | ___   |
-|     |     |     |       |
-|     |     |     |       |
+| Ref  | OG   | Hb?  | Notes |
+| ____ | ____ | ____ | _____ |
+|      |      |      |       |
+|      |      |      |       |
 
 ### Interpretations
 
-| Ref | OG  | Hb  | Notes |
-| ___ | ___ | ___ | ___   |
-| 1:3 |     |     |       |
-|     |     |     |       |
+| Ref   | OG   | Hb    | Notes |
+| _____ | ____ | _____ | ____  |
+| 1:3   |      |       |       |
+|       |      |       |       |
 
 ### Doubles
 
-| Ref | OG  | Hb  | Notes |
-| ___ | ___ | ___ | ___   |
-|     |     |     |       |
-|     |     |     |       |
+| Ref  | OG   | Hb   | Notes |
+| ____ | ____ | ____ | _____ |
+|      |      |      |       |
+|      |      |      |       |
