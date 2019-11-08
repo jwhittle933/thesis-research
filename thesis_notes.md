@@ -1,11 +1,11 @@
 # Thesis
 **Title**: "Re-reading the Sacred Text: Surface and Deep Structure Changes in Proverbs 1-9
 
-__Chapter 1__: "Stichs and Stones: Scholarly Interactions with LXX Proverbs"
+*Chapter 1*: "Stichs and Stones: Scholarly Interactions with LXX Proverbs"
 
-__Chapter 2__: "One Plus One Is Three (Additions)"
+*Chapter 2*: "One Plus One Is Three (Additions)"
 
-__Chapter 3__: "'Dad, You Taught Me Everything I Know About Exterior Illumination': Decorative Interpretations"
+*Chapter 3*: "'Dad, You Taught Me Everything I Know About Exterior Illumination': Decorative Interpretations"
 
 ### Todo:
 - [ ] 5000 word writing sample
