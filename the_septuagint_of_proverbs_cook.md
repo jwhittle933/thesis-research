@@ -11,13 +11,13 @@
 
 30: "Translation technique, the way the translator actually rendered his parent text, has to do with more than just linguistic analysis, even though this analysis forms the basis for interpretation...the translator made specific linguistic choices on account of religious considerations."
 
-31: "Aejmelaeus accepts that there are currently three distinguishable approaches to translation technique followed by scholars: the more technical, statistical approach concentrating on verifiable details of the relationship between the translation and its _Vorlage_; the linguistic approach in which the main interest is the Greek language produced by the translators; and finally the exegetical approach endeavoring to find interpretational elements in the translation... _I am naturally in the latter approach_ (italics mine)"
+31: "Aejmelaeus accepts that there are currently three distinguishable approaches to translation technique followed by scholars: the more technical, statistical approach concentrating on verifiable details of the relationship between the translation and its _Vorlage_; the linguistic approach in which the main interest is the Greek language produced by the translators; and finally the exegetical approach endeavoring to find interpretational elements in the translation...I am naturally in the latter approach"
 
 35: "...the translator of Proverbs must have had an excellent education"
 
 316: "The bottom line of his approach can be defined as the drive to make the intention of his parent text, _as he understood it_, evident to his readers."
 
-317: "He should be seen asn an extremely competent translator, perhaps another one of the best...this translation should be seen as a religious document."
+317: "He should be seen as an extremely competent translator, perhaps another one of the best...this translation should be seen as a religious document."
 
 318: "It was not the _detail_ of his parent text that was important to this translator, but its _intention_."
 

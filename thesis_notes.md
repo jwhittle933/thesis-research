@@ -1,9 +1,11 @@
 # Thesis
-**(Tentative) Title**: "Additions, Interpretations, and Doubles in the Translation of OG Proverbs 1-9
+**Title**: "Re-reading the Sacred Text: Surface and Deep Structure Changes in Proverbs 1-9
 
-**(Alternative) Title**  : "Seeing Double: Additions, Expansions, and Double Translations in OG Proverbs 1-9
+__Chapter 1__: "Stichs and Stones: Scholarly Interactions with LXX Proverbs"
 
-**(Tertiary) Alternative Title**: "Re-reading the Sacred Text: Surface and Deep Structure Changes in Proverbs 1-9"
+__Chapter 2__: "One Plus One Is Three (Additions)"
+
+__Chapter 3__: "'Dad, You Taught Me Everything I Know About Exterior Illumination': Decorative Interpretations"
 
 ### Todo:
 - [ ] 5000 word writing sample
@@ -11,7 +13,7 @@
 ## Data
 |   Chapter | Additions                | Interpretations         | Doubles          | Other                              |
 | --------- | ----------               | -------                 | ---------------- | -----                              |
-|         1 | 7bc                      | 3,4,12b,18ab,19ab,22,23 | 14,21,27         | 10b(11a MT),21(2 -> 3 stichoi)     |
+|         1 | 7bc                      | 4,12b,18ab,19ab,22,23   | 14,21,27         | 10b(11a MT),21(2 -> 3 stichoi)     |
 |         2 | 2,17a,19b(?)             | 16                      | 3,19(?),21       |                                    |
 |         3 | 16a,16A,22A,28c(->27:1b) | 6a,12b,18b,22,27a       | 6,15             | 3c(omit),4a(-> 3c OG)              |
 |         4 | 27AB                     | 4-5                     | 10               | 4c(~> 5a OG),5a(omit),7(omit)      |
@@ -19,7 +21,7 @@
 |         6 | 8ABC,10a,11A,22a         | 2,3,14b,15b,!16!        | 25               |                                    |
 |         7 | 1A                       | 5b,22c,23ac             |                  | 25b(omit), 29ab(omit)              |
 |         8 | 21A                      | 1a,13c,24ab,26,27b,28b  | 10               | 22(collapse),32b(move),34b(32b Hb) |
-|         9 | 10A,12ABC,18ABCD         | 3b,12a,13               | 6b               | 17(a<-->b)                          |
+|         9 | 10A,12ABC,18ABCD         | 3b,12a,13               | 6b               | 17(a<-->b)                         |
 
 > Personal changes: **1:9** (δέξῃ / הֵם); **1:11** (κοινώνησον / נארבה);  **1:12** (καταπίωμεν αὐτόν / נבלעֵם); **1:23** (ἐγένοντο / תשׁובו); **1:28** (ἐπικαλέσθέ με / יקראנני) **2:20** (ἐπορεύοντο / תֵלֵך), (εὕροσαν / תשׁמר); **3:6** (γνώιζε αὐτήν / דָעֵהוּ); **4:4** (οἵ ἔλεγον καὶ ἐδίδασκόν με / וירֵני ויאמר לי); **5:5** (ἐμῶν χειλέων / שפתיך), (ἐντέλλομαι / ינצרו); **5:9** (πρόῃ / תתן); **6:2** (verbless predicate / נוקשׁת), (ἁλίσκεται / נלכדת); **7:6** (οἴκου αὐτῆς / ביתי), (παρακύπτουσα / נשׁקפתי); **7:7** (ἴδῃ / ואֵרא); **8:1** (σὐ κηρύξεις / חכמה תקרא), (ὑπακούσῃ / תתן); **8:13** (φόβος κυρίου μισεῖ ἀδικίαν / יראת יהוה שנאת רע); **8:16** (μεγαλύνονται / יָשרוּ); **8:31** (εὐφραίνετο / שׁעשׁעי);
 
@@ -48,6 +50,13 @@
 | Ref | OG  | Hb? | Notes |
 | ___ | ___ | ___ | ___   |
 |     |     |     |       |
+|     |     |     |       |
+
+### Interpretations
+
+| Ref | OG  | Hb  | Notes |
+| ___ | ___ | ___ | ___   |
+| 1:3 |     |     |       |
 |     |     |     |       |
 
 ### Doubles
