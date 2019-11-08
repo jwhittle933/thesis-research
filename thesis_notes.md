@@ -1,11 +1,15 @@
 # Thesis
-**Title**: "Re-reading the Sacred Text: Surface and Deep Structure Changes in Proverbs 1-9
+**Title**: Re-reading the Sacred Text: Surface and Deep Structure Changes in Proverbs 1-9
 
-*Chapter 1*: "Stichs and Stones: Scholarly Interactions with LXX Proverbs"
+*Chapter 1*: Stichs and Stones: Scholarly Interactions with LXX Proverbs
 
-*Chapter 2*: "One Plus One Is Three (Additions)"
+*Chapter 2*: N Things the Lord Hates, N+1 Things That Are An Abomination: Translator Additions
 
-*Chapter 3*: "'Dad, You Taught Me Everything I Know About Exterior Illumination': Decorative Interpretations"
+*Chapter 3*: 'Dad, You Taught Me Everything I Know About Exterior Illumination' - Clark Griswold: Decorative Interpretations
+
+*Chapter 4*: Which One Are You, Again?: Double Translations
+
+*Chapter 5*: 'Sometimes I'll Start a Sentence and I Don't Even Know Where It's Going I Just Hope I Find It Along The Way' - Michael Scott: Conclusion
 
 ### Todo:
 - [ ] 5000 word writing sample
