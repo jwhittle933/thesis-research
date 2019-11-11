@@ -5,3 +5,5 @@
 4: "...I wonder to what extent we can distinguish between, on the one hand, biblical texts and, on the other hand, Apocrypha and Pseudepigrapha."
 
 6: "Current research on the texts discovered in the Judean Desert and elsewhere, however, has called into question the standard belief that the old translations can always be used for the reconstruction and interpretation of the Hebrew biblical text."
+
+7: "In this book I hope to demonstrate that biblical exegesis can no longer be done without studying the other biblical texts, especially the Greek ones, and that books of an exegetical nature which only vaguely refer tto the other texts are incomplete."

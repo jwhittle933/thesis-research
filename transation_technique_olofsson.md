@@ -1,7 +1,7 @@
 # Translation Technique and Theological Exegesis by Steffan Olafsson
 
 15: "Many emendations based on the Septuagint in the last part of the twentieth century have been verifed by the Qumran texts."
-- Not necessarily. Many cases of scribal errors/alterations could come from the same impulse that we feel, namely that a text doesn't seem to fit our current expectations of grammar, syntax, lexicography, etc.
+> Not necessarily. Many cases of scribal errors/alterations could come from the same impulse that we feel, namely that a text doesn't seem to fit our current expectations of grammar, syntax, lexicography, etc.
 
 16: "...in my opinion, a serious understanding of the translator's theology and the _Vorlage_ of the translation are _only_ possible after an investigation of thet tranlation techniqe""
 
@@ -14,3 +14,9 @@
 6) _The Vorlage of the Greek word_
 
 62: "The type of consistency that is a sign of literality is one where the translators _deliberately aimed at increased regularity_ in the choice of equivalents, despite that the outcome was a translation where the nuances of the original were rubbed out and the target language was not employed in a natural way."
+
+250: "We can consider LXX-Proverbs a prose translation despite the stichic lay-out that copyists hand down."
+
+257: "The almost inevitable outcome, 'stichic prose', is a text of a hybrid nature. Its appearance suggests poetry, but it is not."
+
+351: "It has long been observed that the 'additions' in LXX-Proverbs are mainly concentrated in the first part of the book, especially in chapters 1-9. In later chapters the number of additions decreases."

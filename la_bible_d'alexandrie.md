@@ -62,7 +62,7 @@
 57: "L'absence de vocalisation autorise plusieurs constructions syntaxiques, eet l'on a ainsi releve une propension du traducteur a lire nombre de verbes hebreux comme des passifs au lieu d'actifs."
 
 60: "...le doublet, d'est-a-dire la presence de deux stiques quasiment identiques en deux endroits du livre, est une donnee particulierement interessante puisqu'elle offre simultanement une equivalence lexicale et syntaxique."
-> Doublets (MT)
+> Doublets (MT), i.e., repeated phrases
 ```
 1,8b :: 6,20b
 2,16b :: 7,5b

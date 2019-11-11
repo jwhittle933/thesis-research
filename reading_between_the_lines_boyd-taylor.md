@@ -12,7 +12,7 @@
 
 17: "The way a community uses a text and the assumptions it brings to the act of reading can be said to actualize the text one way or another. Whether our own reading of the text be primarily historical-critical or exegetical in motivation, we must decide _whose_ text is the object of our study.
 
-18: "For the present study, it will be assumed that the primary aim of Septuagint studies is to describe the production and acharacter of what, with suitable caveats, one might call the 'original' texts.""
+18: "For the present study, it will be assumed that the primary aim of Septuagint studies is to describe the production and character of what, with suitable caveats, one might call the 'original' texts."
 
 24: "As Barr himself is well aware, lexical selection in a translation is very often predicated on established pairings of source and target vocabulary rather than on the discourse conventions of the target language as such...The burden of Barr's argument is that the semantics of translational literature is bound up with the relationship between the target text and its parent."
 
@@ -34,9 +34,9 @@
 
 90: "...the Septuagint typically expresses in Greek what its parent text expressed in Hebrew. Intrinsic to the Greek text is a certain relationship with its parent."
 
-91: "[Pietersma and Write] enumerate three such warrants [for the Interlinear Paradigm], which I shall paraphrase (the italics are my own)."
+91: "[Pietersma and Wright] enumerate three such warrants [for the Interlinear Paradigm], which I shall paraphrase (the italics are my own)."
 1) "The paradigm explains the rigid _quantitative equivalence_ of Septuagintal Greek to Hebrew, its 'translationese'"
-2) "It takes the _unintelligibility_ of Septuagint _qua Greek text_ to be an inherent proptery of the translation."
+2) "It takes the _unintelligibility_ of Septuagint _qua Greek text_ to be an inherent property of the translation."
 3) "It safeguards the integrity of the Greek text by emphasizing that its _linguistic strangeness_ was made to serve a pedagogical purpose."
 
 93-94: "...the contravention of Greek linguistic convention was deemed acceptable because the aim of the translator was not to produce an independent Greek text but one conceived within the model of a Greek-Hebrew diglot, i.e. an interlinear text, and this involved quantitative fidelity."
@@ -58,3 +58,5 @@
 316: "On the assumption of interlinearity, the typica Septuagint translation was produced along the lines of an ancient school text."
 
 324: "Tranlators, by definition, belong to the target culture."
+
+422: "...the translator attempted _inter alia_ to produce a text which would be deemed acceptable as a literary work to his Greek speaking Jewish readership."
