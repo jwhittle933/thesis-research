@@ -47,27 +47,14 @@ Chapter 5: Conclusion
 
 **Consistent renderings**: מגן -> ὑπερασπίζω;
 
-**Chapter 6 filled with difficulty**
+**Chapter 6 filled with difficulty
 
 ## Analyses
 
 ### Additions
+**1:7b** σύνεσις δὲ ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν
+: Taken from Ps 111[110]:10, along with 7a:
+: ἀρχὴ σοφίας φόβος κυρίου, 
+: σύνεσις ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν, 
+: ἡ αἴνεσις αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος
 
-| Ref   | OG                                        | Notes                            |
-| ----: | --------                                  | ------                           |
-| 1:7b  | σύνεσις δὲ ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν | Verses taken from Ps 111[110]:10 |
-| 1:7c  | εὐσέβεια δὲ εἰς θεὸν ἀρχὴ αἰσθήσεως       |                                  |
-
-### Interpretations
-
-| Ref    | OG    | Hb    | Notes |
-| -----: | ----- | ----- | ----  |
-| 1:3    |       |       |       |
-|        |       |       |       |
-
-### Doubles
-
-| Ref   | OG    | Hb   | Notes |
-| ----: | ----- | ---- | ----  |
-|       |       |      |       |
-|       |       |      |       |
