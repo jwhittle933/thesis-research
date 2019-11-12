@@ -5,7 +5,7 @@ Chapter 1: Stichs and Stones: Scholarly Interactions with LXX Proverbs
 
 Chapter 2: N Things the Lord Hates, N+1 Things That Are An Abomination: Translator Additions
 
-Chapter 3: Decorative Interpretations
+Chapter 3: Interpres Decoratus
 > 'Dad, you taught me everything I know about exterior illumination' - Clark Griswold
 
 Chapter 4: Which One Are You, Again?: Double Translations
@@ -20,7 +20,7 @@ Chapter 5: Conclusion
 |   Chapter | Additions                | Interpretations        | Doubles          | Other                              |
 | --------: | ----------               | -------                | ---------------- | -----                              |
 |         1 | 7bc                      | 5,12b,18ab,19ab,22,23  | 14,21,27         | 10b(11a MT),21(2 -> 3 stichoi)     |
-|         2 | 17a,19b(?)               | 16                     | 2,3,19(?),21     |                                    |
+|         2 | 2c,3c,17a,19bc(?)        | 7,10b,16ab,20ab        | 21               | 13a(+ ὦ)                           |
 |         3 | 16a,16A,22A,28c(->27:1b) | 6a,12b,18b,22,27a      | 6,15             | 3c(omit),4a(-> 3c OG)              |
 |         4 | 27AB                     | 4-5                    | 10               | 4c(~> 5a OG),5a(omit),7(omit)      |
 |         5 | 3a,23b                   | 3c,5abc,19             |                  | 18a(confusion),13(a/b conflated)   |
@@ -33,7 +33,7 @@ Chapter 5: Conclusion
 
 > Active/Passive transformations: **1:20** (ὑμνεῖται / תרנָה); **3:33** (εὐλογοῦνται / יבָרֵך); **6:28** (κατακαύσει / תכָוינה); **8:3** (ὑμνεῖται / תרנָה); **8:24** (γεννᾷ / חוללתי); **8:35**(ἑτοιμάζεται / ויפק);
 
-> Moralizing changes: **1:31** (τῆς ἑαυτῶν ἀσεβείας / וממעצתיהם); **1:32** (ἀσεβεῖς / כסילים); **3:9** (ἀπὸ σῶν δικαίων πόνων / מֵהוֹנךָ), (ἀπὸ σῶν καρπῶν δικαιοσύνης / תבואתך); **4:25** (δίκαια / נגדך); **6:11** (κακὸς ὁδοιπόρος / מהלך), (αγαθὸς δρομεύς / אישׁ מָגֵן); **7:5** (ἀλλοτρίας καὶ πονηρᾶς / זרה); **9:7** (κακούς / לֵץ);
+> Moralizing changes: **1:31** (τῆς ἑαυτῶν ἀσεβείας / וממעצתיהם); **1:32** (ἀσεβεῖς / כסילים); **2:11** (βουλὴ καλὴ / מזמה), (ἔννοια ὁσία / תבונה); **3:9** (ἀπὸ σῶν δικαίων πόνων / מֵהוֹנךָ), (ἀπὸ σῶν καρπῶν δικαιοσύνης / תבואתך); **4:25** (δίκαια / נגדך); **6:11** (κακὸς ὁδοιπόρος / מהלך), (αγαθὸς δρομεύς / אישׁ מָגֵן); **7:5** (ἀλλοτρίας καὶ πονηρᾶς / זרה); **9:7** (κακούς / לֵץ);
 
 > Adjectival qualifications: **1:3** (δικαιοσύνη ἀληθῆ / צדק); **1:10** (ἄνδρες ἀσεβεῖς / חטאים); **1:11** (ἄνδρα δίκαιον / לנקי); **2:11** (βουλὴ καλή / מזמה), (ἔννοια ὁσία / תבוּנָה); **2:20** (ττρίβους δικαιοσύνης λείους / וארחות צדיקים); **3:7** (παντὸς κακοῦ / מֵרָע); **3:21** (ἐμὴν βουλὴν / תשׁיה);
 
@@ -52,6 +52,8 @@ Chapter 5: Conclusion
 ## Analyses
 
 ### Additions
+
+#### Chapter 1
 **1:7b** σύνεσις δὲ ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν
 
 Taken from Ps 111[110]:10, along with 7a:
@@ -62,3 +64,22 @@ Taken from Ps 111[110]:10, along with 7a:
 ἡ αἴνεσις αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος
 ```
 
+Joosten, "The relation of the Septuagint of Proverbs to Psalms" in Septuagint, Sages, and Scripture, 103, says, "The additional lines undoubtedly have their origin in the Psalms. The problem is that it is hard to know at what stage the addition was made. It is possible that the translators was the one who borrowed the addition from the Greek version of Psalms. But other scenarios can be imagined as well. The additional lines may have been present already in the Hebrew source text of Prov. 1:7. If so, the Greek translation could be original in Proverbs and borrowed in Psalms. Another possibility is that the additional lines were added into the Greek text of Proverbs secondarily, in the course of scribal transmission." Psalm 111[110] is a Psalm of praise (Αλληλουια**, that praises God for his great works, enternal righteousness, and his mercy toward his people. Becuase OG 7a is a fail rendering of Hb 7a, one does have to wonder if OG 7b was inserted later, accidentally or intentionally. If this is true, we still lack explaination for OG 7c, unless we posit separate transmission histories and causes for each additional colon. 
+
+#### Chapter 2
+
+Chapter 2 has largely been re-read with slightly new intention and meaning.
+
+**2:2c** 
+
+**2:3c** τὴν δὲ αἴσθησιν ζητήσῃς μεγάλῃ τῇ φωνῇ
+
+Smoothing addition, in expectation of 3a.
+
+**2:17a** υἱέ, μή σε καταλάβῃ κακὴ βουλὴ
+
+Mimicing the original style and structure of the Hebrew, but creating new divisions and ultimately meaning.
+
+**2:21**
+
+21ab > B†, and in O sub ÷.
