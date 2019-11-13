@@ -10,11 +10,11 @@
 
 11: "...the question of literalism in translation is seldom or never absolutely provable by the mere juxtaposing of two texts, say one in Hebrew and a rendering in Greek. The decision and the assessment of the evidence is not settled by the mere existence of the two texts: it depends on a semantic judgement, the setting forth of a semantic path which may reasonably be taken to have led from one text to the other."
 
-12: "...whereever there is a Hebrew text that (subject to a proper understanding of the translation technique followed) show substantial semantic agrreement with the Greek rendering, the probability is that the Greek has resulted from a fairly literal translation of that text."
+12: "...wherever there is a Hebrew text that (subject to a proper understanding of the translation technique followed) show substantial semantic agreement with the Greek rendering, the probability is that the Greek has resulted from a fairly literal translation of that text."
 
-13: "Clearly, a literal rendering must show a fairly close verbal correspondance witha _Vorlage_ extant or reconstructaible. Equally, however, a rendering, to be usefully classified as a 'free' rendering, must have _some_ recognizable semantic path that lead from the _Vorlage_ to the rendering...Unless there is _some_ formal/semantic link between _Vorlage_ and rendering, the versional phrase cannot usefully count as either literal or free translation: it cannot count as translation at all."
+13: "Clearly, a literal rendering must show a fairly close verbal correspondance with a _Vorlage_ extant or reconstructaible. Equally, however, a rendering, to be usefully classified as a 'free' rendering, must have _some_ recognizable semantic path that lead from the _Vorlage_ to the rendering...Unless there is _some_ formal/semantic link between _Vorlage_ and rendering, the versional phrase cannot usefully count as either literal or free translation: it cannot count as translation at all."
 
-14: "If a rendering is both 'free' and also seriously mistaken, there is not much we can do with it: unless there is _some_ literal element in it, some element linking it with the formal character of the original, or some general semantic rightness about it, we cannot usefully classify it, it is not in essence different frorm a wild guess."
+14: "If a rendering is both 'free' and also seriously mistaken, there is not much we can do with it: unless there is _some_ literal element in it, some element linking it with the formal character of the original, or some general semantic rightness about it, we cannot usefully classify it, it is not in essence different from a wild guess."
 
 15: "It seems therefore that we end up with three types:"
 ```
@@ -27,7 +27,24 @@
 15-16: "Thus the fact that books like Job and Proverbs have often been noted for the 'free' style of their Greek version can rightly be connected with the fact that these books are near to the edge of the biblical canon and less central to the structure of religious doctrine. But, if this is true on one side, it is equally proper to note that in these books thet Hebrew diction itself was often very obscure, and that some fair proportion of the freest renderings seems to coincide with very obscure phrases of the original."
 > Come back to this. He hasn't made his point well enough to lean on this.
 
-16: "But this same starting-point, a deep obscurity in the original, may serve as generating force for both of the two supposedly contray tendencies in translation. If a text is rerally difficult and obscure to the translator, he may opt for free translation, making a general estimate of the total meaning, or simply guessing at it, and ignoring the details; but he may also do the opposite, and decide to give a precise impression in Greek of the detailed form of the Hebrew, leaving it to his readers to work out, if they can, what the general purport of this may be. What is more, the translator may combine the two, providing a rendering based on a precise relation to the Hebrew at certain points and therefore in these aspects literal, and filling in the rest with guesswork or very general interpretation."
+16: "But this same starting-point, a deep obscurity in the original, may serve as generating force for both of the two supposedly contray tendencies in translation. If a text is really difficult and obscure to the translator, he may opt for free translation, making a general estimate of the total meaning, or simply guessing at it, and ignoring the details; but he may also do the opposite, and decide to give a precise impression in Greek of the detailed form of the Hebrew, leaving it to his readers to work out, if they can, what the general purport of this may be. What is more, the translator may combine the two, providing a rendering based on a precise relation to the Hebrew at certain points and therefore in these aspects literal, and filling in the rest with guesswork or very general interpretation."
 > Excellent
 
 16: "Once literal techniques are worked out, they tend to spread and find their way into every kind of locution...It is commonly said that every translation is also an interpretation. In the context of ancient biblical translation, this remark is a highly misleading truism...Or, perhaps, we may better say that the process of translation may involve two quite different sorts of interpretation, which are so different as hardly to deserve to be called by the same name."
+
+17: (see above note) "The first is is a sort of basic syntactic/semantic comprehension of the meaning of the text: if you have a piece of writing in Hebrew which you cannot understand at all you cannot translate it...The other type of interpretation lies on a higher level: it begins only after hthese linguistic elements have been identified...The translator, while he is bound to carry out the first kind of semantic interpretation and cannot act at all without it, is free to choose how far he enters into questions concerning the second kind of interpretation."
+
+18: "A translator is bound in some degree to be an 'interpreter' on this level; but he is not at all bound by the nature of his task to be an interpreter in the sense of an elucidator of the content...The point of this for our purpose is as follows: far from it being the case that every translation is also necessarily an interpretation, there could be points in some ancient translations of the Bible where one of the main motives was, if we put it paradoxically, to avoid interpreting."
+
+20: "The following appear to be distinguishable modes of difference between a more literal and a less literal rendering of a Hebrew text:"
+```
+1. The division into elements or segments, and the sequence in which these elements are represented.
+2. The quantitative addition or subtraction of elements.
+3. Consistency or non-consistency in the rendering, i.e. the degree to which a particular versional term is used for all (or most) cases of a particular term of the original.
+4. Accuracy and level of semantic information, especially in cases of metaphor and idiom.
+5. Coded "etymological" indication of formal/semantic relationships obtaining in the vocabulary of the original language.
+6. Level of text and level of analysis.
+```
+
+
+
