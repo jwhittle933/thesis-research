@@ -1,0 +1,5 @@
+# Proverbs 1-9: A New Translation with Introduction and Commentary by Michael V. Fox
+
+361: "The LXX is the most important aid in identifying ancient variants. I also reveals an early interpretation of Proverbs and is a Wisdom text in its own right...LXX-Prov is primarily a _translation_, one aiming at a faithful representation of the Hebrew, and it is best understood in terms of that goal. All translations are based on and reflect exegesis, though this tends to be noticeable only when one disagrees with the interpretation."
+
+361: "LXX-Prov does introduce additional elements for exegetical purposes, but only a few are really tendentious...the LXX additions almost always serve to undercore, not contradict, the ethics expounded in the Hebrew, so there was no need for the translator to go agianst the grain elsewhere.When the exegetical and tendentious features are accounted for and the expansions are set aside, the LXX proves to be, on the whole, a fairly faithful rendering of a Hebrew original, and it can be used as evidence for textual variants."

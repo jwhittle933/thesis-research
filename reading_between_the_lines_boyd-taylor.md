@@ -6,7 +6,7 @@
 
 6: "Fundamental to DTS [Descriptive Translation Studies] is the notion of acceptability, which may be defined as a translation's relative conformity to the linguistic, textual linguistic and cultural conventions underlying textual production in the target culture."
 
-13: "A very different conception of how the Septuagint should be read is witnessed in Marguerite Harl's presentation of the translational principles underlying _La Bible d'Alexandrie_ (BA). For Harl, respect for the integrity of thet Greek text precludes recourse to the Hebrew as an arbiter of meaning."
+13: "A very different conception of how the Septuagint should be read is witnessed in Marguerite Harl's presentation of the translational principles underlying _La Bible d'Alexandrie_ (BA). For Harl, respect for the integrity of the Greek text precludes recourse to the Hebrew as an arbiter of meaning."
 
 14: "Natalio Fernandez Marcos made it clear that his sympathies lay more with BA than NETS. For him, it is simply wrong-headed to see the Septuagint's relationship with the Hebrew parent as somehow intrinsic to its meaning as a text."
 
@@ -17,6 +17,8 @@
 24: "As Barr himself is well aware, lexical selection in a translation is very often predicated on established pairings of source and target vocabulary rather than on the discourse conventions of the target language as such...The burden of Barr's argument is that the semantics of translational literature is bound up with the relationship between the target text and its parent."
 
 25: "By treating a translation as if it were compositional literature one can bring a host of inappropriate interpretive assumptions to the text."
+
+31: "...to read a traslation as a document of its time is precisely to read it as a translation, _not as a composition_."
 
 33: "The work of translation is informed by shared expectations, both cognitive and regulative, which at once cicumscribe and structure its domain as a field of behaviour."
 
