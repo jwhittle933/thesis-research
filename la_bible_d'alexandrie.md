@@ -53,6 +53,8 @@
 31,29b (T) - 31,30b (T)
 ```
 
+49: "Bien evidemment, il n'est pas question de minimiser le rapport de ce texte a son modele hebreu, mais il faut parallelement lui adjoindre une etude stylisitique globale."
+
 52: "Ces deux exemples sont typiques de la necessite d'etudier les _Proverbes_ LXX comme un veritable texte et non comme la copie plus ou moins aberrante d'un model hebreu suppose inangible."
 
 53: "La theme de la << Loi >>, _nomos_ sans autre determinant, n'est pas specialement mis en valeur par le traducteur des _Proverbes_ : ainsi _torah_ n'est pas systematiquement traduit par _nomos_."

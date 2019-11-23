@@ -48,3 +48,9 @@
 22: "Generally speaking, it is not possible in any text, in any language, to make even basic identifications of words without some attention to their context, which is the sole resource availible to select between the multiple possible values of the signs."
 
 26: "The division of the text into elements or segments, commonly at the word level rather than the phrase level, is then a normal feature of the morer literal style in translating."
+
+29: "A translation may amplify the text it is translating, adding to it considerable amounts of new material."
+
+29-30: "Quantitative divergence from the original in either direction means loss of literality. A literal translation will express only the linguistic elements that are present in the original, and will express all of them. The measure for this is of course semantic: there is no way in which a Greek text can be merely quantitatively equivalent to a Hebrew text, except that it expresses _meanings_ that stand for the meanings of each element in Hebrew."
+
+30: "When large additions are made, these can sometimes be regarded as free composition. The version is then a mixture of two things: it is in part a translation of the original, in part free writing, meditation, commentary, midrash and the like. When this is so we may find that the version combines the literal and the free: where it is actually translating the original text it may be quite literal, but the additional material is free."
