@@ -12,7 +12,7 @@
 
 453: "...the textual-linguistic make-up of the text is crafted in a way that optimally serves the intended function."
 
-455: "...it is atypical for an initiator tot invest large sums in a translation without bothering to monitor its outcome...the Greek text itself give no hints that it was produced on an unlimited budget. It did not meet literary standards but, on the contrary, caused embarassment to native speakers."
+455: "...it is atypical for an initiator to invest large sums in a translation without bothering to monitor its outcome...the Greek text itself give no hints that it was produced on an unlimited budget. It did not meet literary standards but, on the contrary, caused embarassment to native speakers."
 
 457-8: "...[translational] experience can decrease the level of intention. However, what does not normally happen with driving does happen with translating: experience can also _increase_ alertness."
 

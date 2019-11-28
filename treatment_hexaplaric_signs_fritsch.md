@@ -13,5 +13,12 @@
 3. Double translations of phrases: 2:18; 6:3, 10
 4. Double translations of words: 3:10, 18, 23; 5:19
 ```
+170: "It should also be mentioned that the following examples are doubtful, and so have not been included in the above list:"
+> 1:4, 21; 6:10, 11; 9:2, 6
+
+170: "To the list of doubles given above there may be added 15 more examples which have come to light by comparing the variant readings found in the different uncials, minuscules, in the early Church Fathers, and other sources:"
+> 9:7, 8
+
+171: "In 31 of the examples of the doublets noted above in the Greek text, SH has retained either the obelus or the asterisk from the fifth column of Origen's Hexapla, leavning 45 doublets without any sign at all. Thus we can say that SH did not 'scrupulously' retain all of the Origenian signs from the fifth column of the Hexapla, and we shall note later on that the wrong sign was used in a good many instances in SH."
 
 
