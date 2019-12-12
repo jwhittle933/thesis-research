@@ -17,17 +17,17 @@ Chapter 5: Conclusion
 - [ ] 5000 word writing sample
 
 ## Data
-|   Chapter | Additions                        | Interpretations           | Doubles          | Other                              |
-| --------: | ----------                       | -------                   | ---------------- | -----                              |
-|         1 | 7ab                              | 5,12b,18ab,19ab,22,23     | 7,14,21,27       | 10b(11a MT),21(2 -> 3 stichoi)     |
-|         2 | 2c(?),3c,17a,19bc(?)             | 7,10b,16ab,20ab           | 2(?),21          | 13a(+ ὦ)                           |
-|         3 | 6c,15bc,16a,16A,22A,28c(<-27:1b) | 3c,4a,12b,14ab,18b,22,27a |                  | 3c(omit),4a(-> 3c OG)              |
-|         4 | 27AB                             | 4b,4cHb(->5aOG),16c       | 10               | 7(omit)                            |
-|         5 | 3a,23b                           | 2b,3c(3bHb),5abc,19       |                  | 18a(confusion),13(a/b conflated)   |
-|         6 | 8ABC,10a,11A,22a                 | 2ab,3,6,14b,16ab          | 25               |                                    |
-|         7 | 1A                               | 5b,6,7,22c(?),23ac        | 22(?)            | 25b(omit), 29ab(omit)              |
-|         8 | 21A                              | 1a,13c,24ab,26,27b,28b    | 10               | 22(collapse),32b(move),34b(32b Hb) |
-|         9 | 10A,12ABC,18ABCD                 | 3b,12a,13                 | 6                | 17(a<-->b)                         |
+|   Chapter | Additions                        | Interpretations                     | Doubles          | Other                            |
+| --------: | ----------                       | -------                             | ---------------- | -----                            |
+|         1 | 7ab                              | 5,12b,18ab,19ab,22,23               | 7,14,21,27       | 10b(11a MT),21(2 -> 3 stichoi)   |
+|         2 | 2c(?),3c,17a,19bc(?)             | 7,10b,16ab,20ab                     | 2(?),21          | 13a(+ ὦ)                         |
+|         3 | 6c,15bc,16a,16A,22A,28c(<-27:1b) | 3c,4a,12b,14ab,18b,22,27a           |                  | 3c(omit),4a(-> 3c OG)            |
+|         4 | 27AB                             | 4b,4cHb(->5aOG),16c                 | 10               | 7(omit)                          |
+|         5 | 3a,23b                           | 2b,3c(3bHb),5abc,19                 |                  | 18a(confusion),13(a/b conflated) |
+|         6 | 8ABC,10a,11A,22a                 | 2ab,3,6,14b,16ab                    | 25               |                                  |
+|         7 | 1A                               | 5b,6,7,22c(?),23ac                  | 22(?)            | 25b(omit), 29ab(omit)            |
+|         8 | 21A                              | 1a,13c,24ab,26b(?),27b,28b,29,32-34 | 10               | 22/23(collapse)                  |
+|         9 | 10A,12ABC,18ABCD                 | 3b,12a,13                           | 6                | 17(a<-->b)                       |
 
 > Personal changes: **1:9** (δέξῃ / הֵם); **1:11** (κοινώνησον / נארבה);  **1:12** (καταπίωμεν αὐτόν / נבלעֵם); **1:23** (ἐγένοντο / תשׁובו); **1:28** (ἐπικαλέσθέ με / יקראנני) **2:20** (ἐπορεύοντο / תֵלֵך), (εὕροσαν / תשׁמר); **3:6** (γνώιζε αὐτήν / דָעֵהוּ); **4:4** (οἵ ἔλεγον καὶ ἐδίδασκόν με / וירֵני ויאמר לי);**4:8** (τίμησον αὐτήν / תכבדךָ), (σε περιλάβῃ / תחבקנה); **5:5** (ἐμῶν χειλέων / שפתיך), (ἐντέλλομαι / ינצרו); **5:9** (πρόῃ / תתן); **6:2** (verbless predicate / נוקשׁת), (ἁλίσκεται / נלכדת); **7:6** (οἴκου αὐτῆς / ביתי), (παρακύπτουσα / נשׁקפתי); **7:7** (ἴδῃ / ואֵרא); **8:1** (σὐ κηρύξεις / חכמה תקרא), (ὑπακούσῃ / תתן); **8:13** (φόβος κυρίου μισεῖ ἀδικίαν / יראת יהוה שנאת רע); **8:16** (μεγαλύνονται / יָשרוּ); **8:31** (εὐφραίνετο / שׁעשׁעי);
 
@@ -45,11 +45,11 @@ Chapter 5: Conclusion
 
 > Assonance: **3:20-21** (ἐρράγησαν, ἐρρύησαν, παραρρυῇς);
 
-> Good Greek: **2:10** ἡ δὲ αἴσθησις τῇ σῇ ψυχῇ καλὴ εἶναι δόξῃ; **2:15** ὧν αἱτρίβοι σκολιαὶ; **4:15** ἐν ᾧ ἄν τόπῳ στρατοπεδεύσωσιν, μὴ ἐπέλθῃς ἐκεῖ;
+> Good Greek: **2:10** ἡ δὲ αἴσθησις τῇ σῇ ψυχῇ καλὴ εἶναι δόξῃ; **2:15** ὧν αἱτρίβοι σκολιαὶ; **4:15** ἐν ᾧ ἄν τόπῳ στρατοπεδεύσωσιν, μὴ ἐπέλθῃς ἐκεῖ; **8:30a** ἐγὼ ἤμην ᾗ προσέχαιρεν;
 
 > Moves closely parallel element from one stich to another: **5:13** (παιδεύοντός με καὶ διδάσκοντός με / מורָי ולמלמדי); **7:5** (γυναικὸς ἀλλοτρίας καὶ πονηρᾶς / מאשׁה זרה מנכריה);
 
-> Likely misunderstanding of Hebrew: **7:20** (δι᾽ ἡμερῶν πολλῶν / ליוֹם הכסא);
+> Likely misunderstanding of Hebrew: **7:20** (δι᾽ ἡμερῶν πολλῶν / ליוֹם הכסא); **8:18** (κτῆσις πολλῶν / הוֹן עָתֵק);
 
 > Perfect Active Participles with seemingly passive nuance: **7:23** πεπληγώς; **23:32** πεπληγώς;
 
@@ -109,3 +109,6 @@ The translator has borrowed from 3:8 (borrowed, not repeated):
 #### Chapter 7
 
 6ff. - The translator changes the perspective of the story from the author's to the harlot's
+
+#### Chapter 8
+24ab. - v. 24 contains the addition, but the real change here is from 22 - 25. In verses 22 and 23, the translator shortened his verses, collapsing the parallelism that exists in the Hebrew. Both verses are a distich, but in Greek contain a single colon. The most noticeable feature of this section of text is the repitition of πρό. In Hebrew, these verses are related, but less tightly coupled. The repitition of מן perhaps influenced the translator's use of πρό, but he clearly took it 1 step further. As well, "begetting" is only a real feature of the Hebrew in 24-25, but the translator (mistakenly) understood קנא in 22 to mean "beget", and created an envelope between ἔκτισέν με and γαννᾷ με in 22 and 25.
