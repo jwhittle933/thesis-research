@@ -23,3 +23,16 @@
 
 10:12a - `ועל כל פשׁעים` / `πάντας δὲ τοὺς μὴ φιλονεικοῦντας`. Epexegetical rendering.
 > The use of `φιλία` for `אהבה` is unusual and clearly a piece of the translator's re-read purpose. **This Could Use Research**
+
+10:17a - `ארח להיים שוֹמֵר מוּסָר` could be read in two ways: "The one who gaurds instruction" OR "Instruction guards". Gk `φυλάσσει παιδεία` reads the latter. With `עוֹזֵב` in the second colon, "The one who forsakes", `שׁוֹמֵר` should probably be read substantivaly. 
+
+10:18 - Hb `שפתי שׁקר` / `χείλη δίκαια`. The translator reversed the parallelism of the Hebrew, which was exclusively about deception, to bring back antithetical parallelism which is characteristic of every verse to the point. `ἀφρονέστατοι` "most foolish" for `כסיל` is part of the translator's flair.
+
+10:19a - Hb `יחדל פשׁע` / `ἐκφεύξῃ ἁμαρτίαν` common feature of personalization from the translator.
+10:19b - `φειδόμενος` (supplementary) continues the personalization, but is in parity with Hb `חשך`
+
+10:20b - `כמעט` / `ἐκλείψει`
+
+10:21a - Hb `ירעו רבים` / `ἐπίσταται ὑψηλά` 
+10:21b - Hb `בחסר לב` / `ἐν ἐνδείᾳ` 
+
