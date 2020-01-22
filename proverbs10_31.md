@@ -34,5 +34,17 @@
 10:20b - `כמעט` / `ἐκλείψει`
 
 10:21a - Hb `ירעו רבים` / `ἐπίσταται ὑψηλά` 
-10:21b - Hb `בחסר לב` / `ἐν ἐνδείᾳ` 
+10:21b - Hb `בחסר לב` / `ἐν ἐνδείᾳ`, leaves off "heart" and thereby changes the meaning.
 
+10:22 - Hb `היא תעשׁיר` / Gk `ἐπὶ κεφαλὴν δικαίου`. Perhaps a textual mis-reading or mis-copy. Hebrew `היא` is unusual but not impossible, accounted for in the second stich by `αὕτη πλουτίζει`. 
+
+10:24b - `יתן` / `δεκτή`. 
+
+10:25b - `יסוד עולם` / `ἐκκλίνας σῴζεται εἰς τὸν ἀιῶνα`
+
+10:26a - Gk + `βλαβερον`
+10:26b - `העצל` / `παρανομία`, from concrete noun (person) to abstract noun (lawlessness).
+
+10:30a - `ימוט` / `ἐνδώσει`, interesting exchange.
+
+> Chapter 10 summary: the chapter deals with speech, i.e. `פי`, `לשׁון`, `שפתים`.
