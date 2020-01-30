@@ -1,4 +1,4 @@
-# The Treatment of the Hexaplaric Signs in the Syro-Hexplar of Proverbs, by Charlest T. Fritsch
+# The Treatment of the Hexaplaric Signs in the Syro-Hexplar of Proverbs, by Charles T. Fritsch
 
 169: "Then, too, the Greek translation of Proverbs is characterized by a certain freedom of expression and by certain peculiarities in the mode of translating."
 

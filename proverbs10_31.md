@@ -6,6 +6,7 @@
 
 
 ## Notes
+### Chapter 10
 10:5 - Hb `אגר`/ Gk `διεσώθη`. Hb uncommon root (Deut. 28:39, Prov 6:8; 10:5), "to gather". Perhaps the root also conveyed rescue, or the Greek translator is embellishing. Gk `καῦμα` suggests embellishment. As well, the pairing `מֵבישׁ` / `ἀνεμόφθονος` are typical of his creativity.
 
 10:6 - Hb `חמס` / `πένθος ἄωρον` "untimely sorrow"
@@ -48,3 +49,10 @@
 10:30a - `ימוט` / `ἐνδώσει`, interesting exchange.
 
 > Chapter 10 summary: the chapter deals with speech, i.e. `פי`, `לשׁון`, `שפתים`.
+
+### Chapter 11
+11:2 - Hb `ואת צנועים הכמה` / `στόμα δὲ ταπεινῶν μελετᾷ σοφίαν`.
+
+11:3 - Hb `תמת ישׁרים תנחם וסלף בוגדים ישׁדם` / `ἀποθανὼν δίκαιος ἔλιπεν μετάμελον, πρόχειρος δὲ γίνεται καὶ ἐπίκαρτος ἀσεβῶν ἀπόλεια`. The translator must have read `מות` rather than `תם`, and took `סלף` as the subject of `תנחם` (?). 
+
+
