@@ -17,3 +17,4 @@ Pick illustrative examples from in the book
 2) Interlinear paradigm (NETS Front Matter; Boyd-Taylor)
 4) Literal renderings (James Barr)
 5) Exemplary Material
+6) Conclusion
