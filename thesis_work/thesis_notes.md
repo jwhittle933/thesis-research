@@ -20,7 +20,7 @@ Chapter 5: Conclusion
 |   Chapter | Additions                        | Interpretations                     | Doubles          | Other                            |
 | --------: | ----------                       | -------                             | ---------------- | -----                            |
 |         1 | 7ab                              | 5,12b,18ab,19ab,22,23               | 7,14,21,27       | 10b(11a MT),21(2 -> 3 stichoi)   |
-|         2 | 2c(?),3c,17a,19bc(?)             | 7,10b,16ab,20ab                     | 2(?),21          | 13a(+ ὦ)                         |
+|         2 | 2c(?),3c,17a                     | 7,10b,16ab,20ab                     | 2(?),19,21       | 13a(+ ὦ)                         |
 |         3 | 6c,15bc,16a,16A,22A,28c(<-27:1b) | 3c,4a,12b,14ab,18b,22,27a           |                  | 3c(omit),4a(-> 3c OG)            |
 |         4 | 27AB                             | 4b,4cHb(->5aOG),16c                 | 10               | 7(omit)                          |
 |         5 | 3a,23b                           | 2b,3c(3bHb),5abc,19                 |                  | 18a(confusion),13(a/b conflated) |
@@ -45,7 +45,7 @@ Chapter 5: Conclusion
 
 > Assonance: **3:20-21** (ἐρράγησαν, ἐρρύησαν, παραρρυῇς);
 
-> Good Greek: **2:10** ἡ δὲ αἴσθησις τῇ σῇ ψυχῇ καλὴ εἶναι δόξῃ; **2:15** ὧν αἱτρίβοι σκολιαὶ; **4:15** ἐν ᾧ ἄν τόπῳ στρατοπεδεύσωσιν, μὴ ἐπέλθῃς ἐκεῖ; **8:30a** ἐγὼ ἤμην ᾗ προσέχαιρεν;
+> Good Greek: **2:10** ἡ δὲ αἴσθησις τῇ σῇ ψυχῇ καλὴ εἶναι δόξῃ; **2:15** ὧν αἱ τρίβοι σκολιαὶ; **4:15** ἐν ᾧ ἄν τόπῳ στρατοπεδεύσωσιν, μὴ ἐπέλθῃς ἐκεῖ; **8:30a** ἐγὼ ἤμην ᾗ προσέχαιρεν;
 
 > Moves closely parallel element from one stich to another: **5:13** (παιδεύοντός με καὶ διδάσκοντός με / מורָי ולמלמדי); **7:5** (γυναικὸς ἀλλοτρίας καὶ πονηρᾶς / מאשׁה זרה מנכריה);
 
@@ -74,19 +74,18 @@ Taken from Ps 111[110]:10, along with 7a:
 ἡ αἴνεσις αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος
 ```
 
-Joosten, "The relation of the Septuagint of Proverbs to Psalms" in Septuagint, Sages, and Scripture, 103, says, "The additional lines undoubtedly have their origin in the Psalms. The problem is that it is hard to know at what stage the addition was made. It is possible that the translators was the one who borrowed the addition from the Greek version of Psalms. But other scenarios can be imagined as well. The additional lines may have been present already in the Hebrew source text of Prov. 1:7. If so, the Greek translation could be original in Proverbs and borrowed in Psalms. Another possibility is that the additional lines were added into the Greek text of Proverbs secondarily, in the course of scribal transmission." Psalm 111[110] is a Psalm of praise (Αλληλουια**, that praises God for his great works, enternal righteousness, and his mercy toward his people. Becuase OG 7a is a fail rendering of Hb 7a, one does have to wonder if OG 7b was inserted later, accidentally or intentionally. If this is true, we still lack explaination for OG 7c, unless we posit separate transmission histories and causes for each additional colon. 
+Joosten, "The relation of the Septuagint of Proverbs to Psalms" in Septuagint, Sages, and Scripture, 103, says, "The additional lines undoubtedly have their origin in the Psalms. The problem is that it is hard to know at what stage the addition was made. It is possible that the translator was the one who borrowed the addition from the Greek version of Psalms. But other scenarios can be imagined as well. The additional lines may have been present already in the Hebrew source text of Prov. 1:7. If so, the Greek translation could be original in Proverbs and borrowed in Psalms. Another possibility is that the additional lines were added into the Greek text of Proverbs secondarily, in the course of scribal transmission." Psalm 111[110] is a Psalm of praise (Αλληλουια**, that praises God for his great works, enternal righteousness, and his mercy toward his people. Becuase OG 7a is a fair rendering of Hb 7a, one does have to wonder if OG 7b was inserted later, accidentally or intentionally. If this is true, we still lack explaination for OG 7c, unless we posit separate transmission histories and causes for each additional colon."
 
 #### Chapter 2
 
 Chapter 2 has largely been re-read with slightly new intention and meaning.
 
 **2:2c** 
+Smoothing addition, in expectation of 3a.
 
 **2:3c** `τὴν δὲ αἴσθησιν ζητήσῃς μεγάλῃ τῇ φωνῇ`
 
-Smoothing addition, in expectation of 3a.
-
-**2:17a** `υἱέ, μή σε καταλάβῃ κακὴ βουλὴ`
+**2:17a** `υἱέ, μή σε καταλάβῃ κακὴ βουλὴ
 
 Mimicing the original style and structure of the Hebrew, but creating new divisions and ultimately meaning.
 
@@ -95,6 +94,12 @@ Mimicing the original style and structure of the Hebrew, but creating new divisi
 21ab > B†, and in O sub ÷.
 
 #### Chapter 3
+**3:3**
+`ἐλεημοσύναι καὶ πίστεις` for `חסד ואמת**
+
+**3:9**
+`δικαίων πόνων` and `καρπῶν δικαιοσύνης` where Hb has no adjectives
+
 **3:22A** 
 ```
 ἔσται δὲ ἴασις ταῖς σαρξί σου
