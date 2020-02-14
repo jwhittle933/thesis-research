@@ -17,13 +17,15 @@ Literal
 
 ### 3b 
 Greek forms two _cola_ from a single Hebrew and mutated the last Hebrew adjective `מישׁרים` to a verb, `κατευθύνειν`. In one sense, he added a new type of parallelism. The newly formed tristich now features a verb in each line. `צדך` becomes `νοῆσαί τε δικαιοσύνην ἀληθῆ`, `משׁפט` becomes `κα`κρίμα κατευθύνειν`. 
-| Hebrew | Greek Equivalent |
-| ----:  | -----------      |
-| לקחת   | δέξασθαί         |
-| מוסר   | στροφὰς          |
-| חשכל   | λόγων(?)         |
-|        | νοῆσαί           |
-|        | τε               |
-| צדך    | δικαιοσύνην      |
-|        | ἀληθῆ            |
-|        |                  |
+| Hebrew  | Greek Equivalent |
+| ----:   | -----------      |
+| לקחת    | δέξασθαί         |
+| מוסר    | στροφὰς          |
+| חשכל    | λόγων(?)         |
+|         | νοῆσαί           |
+|         | τε               |
+| צדך     | δικαιοσύνην      |
+|         | ἀληθῆ            |
+| ו       | καὶ              |
+| משׁפת    | κρίμα            |
+| ומישׁרים | κατευθύνειν      |
