@@ -126,11 +126,21 @@ Semi-**Literal**, with freedom. Gk `αὕται αἵ ὁδοί` is a fair rende
 There is a **Literal** semantic path from Hb to Gk, with some freedom. Hb `יקח` is difficult in its own right. The singular is a bit out of place and it's not clear who or what the subject is. `ארחות` is plural, but in poetry, this doesn't remove it from the pool of options. Perhaps `את` is an emphatic marker of subject and `יקח` should be read as Qal passive/Nifal, "the life of its master is taken away". This presents as many problems as it solves, and many more still exist, which may account for the translator's rendering. This being the case, `τὴν ἑαυτῶν ψυχὴν ἀφαιροῦνται` captures the general purport of the Hebrew without the diffuculties. Gk `τῇ γὰρ ἀσεβείᾳ` is unmatched in the Hb, but fits the translator's morally explicit tendency.
 
 ### 20a
-**Literal**. Hb `רנן` here, according to HALOT, means something like "cry aloud", but the general semantic field of the word includes "sing", which explains `ὑμνεῖται`. 
+**Literal**. Hb `רנן` here, according to HALOT, means something like "cry aloud", but the general semantic field of the word includes "sing", which explains `ὑμνεῖται`. Here, however, rather than Wisdom singing Wisdom is sung. Perhaps an anti-anthropomorphic motivation. Hb `תרנה` could also be interpreted as a passive, even though the Pual is rare (1x) and there are no known Nifals in the MT.
 
 ### 20b
-Freely translated based on 20a. The translator, based on `ὑμνέω` in 20a, portays wisdom as being a song-leader with `παρρησίαν ἄγει`, verb + adverbial accusative, "she leads with vigor/boldly". Hb `ברחבות` rendered literally by `ἐν πλατείας`.
+Freely translated based on 20a. The translator, based on `ὑμνέω` in 20a, portays wisdom as being a song-leader with `παρρησίαν ἄγει`, verb + adverbial accusative, "she leads with vigor/boldly". The transition is odd, since Wisdom is the patient in the previous stich. The transition to agent here matches her transition to agent in 21bc (double). Hb `ברחבות` rendered literally by `ἐν πλατείας`. 
 
 ### 21a
-**Literally** translated with either an error or a different _Vorlage_.
+**Literally** translated with either an error or a different _Vorlage_. Translator read `המוֹת` "walls" rather than `המיות` from `המה`, "to bustle/be noisy". Wisdom again becomes the patient rather than the agent in `κηρύσσεται`, "she is preached", matching stich a of 20.
+
+### 21bc
+Second occurence of double rendering in OG Proverbs. The Hb double prepositional phrase is broken into two lines. If one of these _stichoi_ were Hexaplaric, one would expect one of the lines to more closely represent Hb. As it stands, neither line fully captures the Hb. 21b `δυναστῶν` is unmatched in the Hb, as is `παρεδρεύει`. 21c `θαρροῦσα` is semantically unmatched in Hb, but I wonder if the cognate noun phrase `אמריה תאמר` was taken emphatically.
+
+### 22
+Very interpretive and best handled as a unit. Hb frames a question, `עד מתי`, "how long?", which becomes a indefinite modal, `ὅσον ἄν χρόνον`, "as long as". Gk `ἄκακοι` is a fair rendering of Hb `פתים`, and is usual for the translator, but Hb paints the "simple" in a negative light whereas the "innocent" in Gk is looked on positively. Gk `ἐχωνται τῆς δικαιοσύνης` is both semantically and conceptually foreign. One wonders if the new semantic shape is due to the translator's desire to draw a line between the righteous and unrighteous, or even if his _Vorlage_ was corrupted in some way. Perhaps he read `לצים לצון` as something to the effect of `לא לצון`, which he understood as "not derided", which could explain `οὐκ αἰσχυντήσονται`. This fails to explain the absence of `תאהבו` in the Gk and even `חמדו`, unless 22b `ὄντες ἐπιθυμηταί` is matched here.
+
+Another explanation could be that 22a is freely adapted to the translator's purpose, and that 22bc is captured by Gk 22bc semi-freely. In this scenario, Hb `לצים` becomes `ἄφρονες` and `חמדו` becomes `ὄντες ἐπιθυμηταί`, and finally `לצון` becomes `ὕβρεως`. The second lexeme pair is sensible and can be called **Literal**, as can the 3rd lexeme pair. 22c can also be consdiered fairly **Literal**, though clause is subordinate to 22b. Gk `ἐμίσησαν αἴσθησιν` is a **Literal** rendering of Hb `וכסילים ישנאו דעת`. The concept of "fool", however, was captured in 22b, and the `כסילים` becomes `ἀσεβεῖς`. 
+ 
+The three Hb lines are describing the same type of individual from 3 perspectives through parallelism. The Gk, in some respects, draws this connection stronger through the use of participles and subordinate clauses.
 
