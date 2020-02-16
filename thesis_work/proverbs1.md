@@ -144,3 +144,41 @@ Another explanation could be that 22a is freely adapted to the translator's purp
  
 The three Hb lines are describing the same type of individual from 3 perspectives through parallelism. The Gk, in some respects, draws this connection stronger through the use of participles and subordinate clauses.
 
+### 23a
+The Hebrew meaning can be debated. ESV renders "If you turn at my reproof", with a note that it could be a question, "Will you turn away at my reproof". The first option is much more plausible, as it best accounts for the following `הנה` and reads `תשׁובו` modally. Gk `ὑπεύθυνοι` is freely rendered with no clear semantic path.
+
+### 23b
+Freely rendered, with some **Literality**. Gk `προήσομαι` belongs to the same semantic field as `נבע`. Hb `רוחי` becomes in Gk `ἐμῆς πνοῆς ῥῆσιν`, which is curious.
+
+### 23c
+**Literal**. Hb `דברי` "my words" becomes Gk `τὸν ἐμὸν λόγον`, a switch to the singular, which is accurate based on the consonants. Addition of Gk `δὲ** is usual for the translator.
+
+### 24a
+**Literal**. Hb `ותמאנו` becomes `οὐχ ὑπηκούσατε**, which is the semantically transformed negative. Hb encodes the negative nuance lexemically.
+
+### 24b
+**Literal**. Hb `ידי` is transformed to `λόγούς` which fits the new context in Gk, where Wisdom is pouring out words and speech. Gk `προσέχω` for Hb `קשׁב` (Hif** is the first of many of this pair.
+
+### 25a
+**Literal**. Hb `פרע` "to disregard" is encoded in Gk as `ἀκύρους ἐποιεῖτε`. Singlur to plural shift in `βουλάς**.
+
+### 25b
+**Literal**. Gk `ἀπειθέω` "refuse compliance" (LSJ) for Hb `אבה`. Another plural shift in `ἐλένχοις**.
+
+### 26a
+**Literal**. Gk `τοιγαροῦν` a Greek polish. Gk `ὑμετέρα** shows the translator's preference up to this point for the adjectival pronouns.
+> A study of the adjectival pronouns in OG Proverbs would be a great paper.
+
+### 26b
+**Literal**. Addition of `δέ**.
+
+### 27a
+**Literal**, with freer elements. Gk `ἄφνω` is unmatched in the Hb. Gk `θόρυβος` and Hb `פחד` do not normally occupy the same semantic space. Hb possesive suffix is excluded. Hb `כשׁואה** is omitted, perhaps to avoid repetition with 27b.
+
+### 27b
+**Literal**. Hb possessive suffix again excluded.
+
+### 27c
+**Literal**. Hb `עליכם` captured by Gk `ὑμῖν`. Gk 27d **Double Rendering?**, or corruption from 26b (`ἡνίκα ἄν ἔρχηται ὄλεθρος`)? Perhaps added to echo 26b. If it truly is a double rendering of Hb 27c, it constitutes a fairly **Literal** rendering, minus 1 word.
+
+### 28a
