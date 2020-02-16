@@ -182,3 +182,34 @@ Freely rendered, with some **Literality**. Gk `προήσομαι` belongs to th
 **Literal**. Hb `עליכם` captured by Gk `ὑμῖν`. Gk 27d **Double Rendering?**, or corruption from 26b (`ἡνίκα ἄν ἔρχηται ὄλεθρος`)? Perhaps added to echo 26b. If it truly is a double rendering of Hb 27c, it constitutes a fairly **Literal** rendering, minus 1 word.
 
 ### 28a
+Free adaptations with **Literal** backbone. Gk `ἔσται γὰρ ὅταν` captures Hb `אז`, but removes the future nuance of Hb toward a subjunctive/potential mood. Hb `לא אענא` "I will not answer" is transformed to `οὐκ εἰσακούσομαι` "I will not listen" plus an object `ὑμῶν**.
+
+### 28b
+**Literal**, but with a moral addition of `κακοἰ**.
+
+### 29
+**Literal**
+
+### 30a
+Free with **Literal** elements. Translator added `οὐδέ` to create parity with 29. Hb `אבו` becomes `ἤθελον προσέχειν`, which is a fair rendering though contrived. Gk `προσέχω` is the sterotypical pairing to `קשׁב` (TC issue?**.
+
+### 30b
+**Literal**, minus `כל**.
+
+### 31a
+**Literal**, plus `τοιγαροῦν` which likely derives from the _yiqtol_ + _waw** for consequence or result.
+
+### 31b
+**Literal**, except `ממעצתיהם` becomes `ἀσεβείας`, either out of the translator's commitment to moral distinctions or becuase he didn't know the word (likely the former).
+
+### 32a
+Freely rendered. Hb `כי` perhaps becomes `ἀνθ᾽ ὧν γὰρ`, if not the whole expression at least `γάρ`. The preposition and (incorporated?) relative pronoun are perhaps flair. Hb `משׁובת פתים` becomes `ἠδίκουν νηπίους`. Perhaps the translator misunderstood `משׁובה`, or took an opportunity for more righteous/unrighteous contrast, as he's gone to great lengths thus far to portray the evil-doer who would take advantage of the simple (who, in this context, are `ἄκακοι`). Now that the simple are innocent, its not simplicity that `תהרגם`, but those who act maliciously toward the innocent `φονευθήσονται`. The translator has captured the thrust of the Hebrew in more lines (cf. 18a `οἱ φόνου μετέχοντες`), where the snare that the scoundrels leave for the innocent end up being their own death trap.
+
+### 32b
+Freely translated. `שׁלוה` becomes `ἐξετασμός` "inquiry", perhaps suggesting that evildoers will have their day before a judge (YHWH?). Per usual, the `כסילים` become `ἀσεβεῖς**.
+
+### 33a
+**Literal**, with Hb `בטה` becoming `ἐπ᾽ ἐλπίδι**.
+
+### 33b
+**Literal**, with flair.
