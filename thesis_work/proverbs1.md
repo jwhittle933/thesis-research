@@ -206,15 +206,15 @@ Free with **Literal** elements. Translator added `οὐδέ` to create parity wi
 Freely rendered. Hb `כי` perhaps becomes `ἀνθ᾽ ὧν γὰρ`, if not the whole expression at least `γάρ`. The preposition and (incorporated?) relative pronoun are perhaps flair. Hb `משׁובת פתים` becomes `ἠδίκουν νηπίους`. Perhaps the translator misunderstood `משׁובה`, or took an opportunity for more righteous/unrighteous contrast, as he's gone to great lengths thus far to portray the evil-doer who would take advantage of the simple (who, in this context, are `ἄκακοι`). Now that the simple are innocent, its not simplicity that `תהרגם`, but those who act maliciously toward the innocent `φονευθήσονται`. The translator has captured the thrust of the Hebrew in more lines (cf. 18a `οἱ φόνου μετέχοντες`), where the snare that the scoundrels leave for the innocent end up being their own death trap.
 
 ### 32b
-Freely translated. `שׁלוה` becomes `ἐξετασμός` "inquiry", perhaps suggesting that evildoers will have their day before a judge (YHWH?). Per usual, the `כסילים` become `ἀσεβεῖς**.
+Freely translated. `שׁלוה` becomes `ἐξετασμός` "inquiry", perhaps suggesting that evildoers will have their day before a judge (YHWH?). Per usual, the `כסילים` become `ἀσεβεῖς`.
 
 ### 33a
-**Literal**, with Hb `בטה` becoming `ἐπ᾽ ἐλπίδι**.
+**Literal**, with Hb `בטה` becoming `ἐπ᾽ ἐλπίδι`.
 
 ### 33b
 **Literal**, with flair.
 
-## Exscursus: Possesive Pronouns
+## Excursus 1: Possessive Pronouns
 | Verse  | Hebrew  | Greek       |
 | :----- | -----:  | ------      |
 | 8a     | `ך`     | `σου`       |
@@ -236,4 +236,21 @@ Freely translated. `שׁלוה` becomes `ἐξετασμός` "inquiry", perhaps
 | 30b    | `י`     | `ἐμοῦς`     |
 | 31a    | `ם`     | `ἑαυτῶν`    |
 | 31b    | `יהם`   | `ἑαυτῶν`    |
+
+## Excursus 2: Verbal Correspondance
+| Verse | Hebrew  | Greek         | Correspondance                 |
+|  ---- | ----:   | ------        | ----                           |
+|   1:1 |         | `ἐβασίλευσεν` | Unmatched                      |
+|   1:2 | `לדעת`  | `γνῶναι`      | Matched Inf. purpose           |
+|   1:2 | `להבין` | `νοῆσαι`      | Matched Inf.  purpose          |
+|   1:3 | `לקחת`  | `δέξασθαι`    | Matched Inf.  purpose          |
+|   1:3 |         | `νοῆσαι`      | Unmatched                      |
+|   1:3 |         | `κατευθύνειν` | Unmatched                      |
+|   1:4 | `לתת`   | `δῷ`          | Subj. for Inf. purpose         |
+|   1:5 | `ישׁמע`  | `ἀκούσας`     | Sup. Ptc. for Juss.            |
+|   1:5 | `ויוסף` | `ἔσται`       | S-V-SC for S-V-O               |
+|   1:5 | `נבוֹן`  | `ὁ νοήμων`    | Matched Sub. Ptc.              |
+|   1:5 | `יקנה`  | `κτήσεται`    | Fut. for Juss.                 |
+|   1:6 | `להבין` | `νοήσει`      | Fut. for Inf. purpose (cf.1:2) |
+|       |         |               |                                |
 
