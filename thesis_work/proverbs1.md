@@ -238,95 +238,95 @@ Freely translated. `שׁלוה` becomes `ἐξετασμός` "inquiry", perhaps
 | 31b    | `יהם`   | `ἑαυτῶν`    |
 
 ## Excursus 2: Verbal Correspondance
-| Verse | Hebrew    | Greek                | Correspondance                                 |
-| :---- | ----:     | :------              | :-----                                         |
-|   1:1 |           | `ἐβασίλευσεν`        | Unmatched                                      |
-|   1:2 | `לדעת`    | `γνῶναι`             | Matched Inf. purpose                           |
-|   1:2 | `להבין`   | `νοῆσαι`             | Matched Inf.  purpose                          |
-|   1:3 | `לקחת`    | `δέξασθαι`           | Matched Inf.  purpose                          |
-|   1:3 |           | `νοῆσαι`             | Unmatched                                      |
-|   1:3 |           | `κατευθύνειν`        | Unmatched                                      |
-|   1:4 | `לתת`     | `δῷ`                 | Subj. for Inf. purpose                         |
-|   1:5 | `ישׁמע`    | `ἀκούσας`            | Sup. Ptc. for Juss.                            |
-|   1:5 | `ויוסף`   | `ἔσται`              | S-V-SC for S-V-O                               |
-|   1:5 | `נבוֹן`    | `ὁ νοήμων`           | Matched Sub. Ptc.                              |
-|   1:5 | `יקנה`    | `κτήσεται`           | Fut. for Juss.                                 |
-|   1:6 | `להבין`   | `νοήσει`             | Fut. for Inf. purpose (cf.1:2)                 |
-|   1:7 |           | `τοῖς ποιοῦσιν`      | Unmatched, Psa. 110[111]:10                    |
-|   1:7 | `בזו`     | `ἐξουθενήσουσιν`     | Fut. for Qal pf.                               |
-|   1:8 | `שׁמע`     | `ἄκουε`              | Matched Imv.                                   |
-|   1:8 | `אל תטשׁ`  | `μὴ ἀπώσῃ`           | Matched, Hort. Sub. for Juss.                  |
-|   1:9 |           | `δέξῃ`               | Unmatched, implicit                            |
-|  1:10 | `יפתוך`   | `μὴ πλανήσωσιν`      | Hort. Subj. for Cond. Juss.                    |
-|  1:10 | `אל תבא`  | `μὴδε βουληθῇς`      | Matched                                        |
-|  1:10 |           | `παρακαλέσωσι`       | Unmatched                                      |
-|  1:11 | `יאמרו`   | `λέγοντες`           | Gk moved to v.10                               |
-|  1:11 | `לכה`     | `ἐλθέ`               | Matched, Imv.                                  |
-|  1:11 | `נארבה`   | `κοινώνησον`         | Sem. diff., "Lie in wait"/"share"              |
-|  1:11 | `נצפנה`   | `κρύψωμεν`           | Matched, Subj. for Cohor.                      |
-|  1:12 | `נבלעם`   | `καταπίωμεν`         | Matched, Subj. for Cohor.                      |
-|  1:12 |           | `ἄρωμεν`             | Unmatched                                      |
-|  1:13 | `נמצא`    | `καταλαβώμεθα`       | Matched, Subj. for Cohor.(?)/Yiqtol            |
-|  1:13 | `נמלא`    | `πλήσωμεν`           | Matched, Subj. for Cohor.(?)/Yiqtol            |
-|  1:14 | `תפיל`    | `βάλε`               | Matched, Imv. for Modal Yiqtol                 |
-|  1:14 |           | `κτησώμεθα`          | Unmatched (Double)                             |
-|  1:14 | `יהיה`    | `γενηθήτω`           | Imv. for Yiqtol future                         |
-|  1:15 | `אל תלך`  | `μὴ ποροευθῇς`       | Matched, Hort. Subj. for Juss                  |
-|  1:15 | `מנע`     | `ἔκκλινον`           | Matched, Imv.                                  |
-|  1:16 | `ירוצו`   | `τρέχουσιν`          | Matched, Pres. for Yiqtol                      |
-|  1:16 | `וימהרו`  | `(οἵ πόδες) ταχινοὶ` | Matched, S-V-SC for Yiqtol+Waw                 |
-|  1:16 | `לשׁפך`    | `τοῦ ἐκχέαι`         | Matched, Inf. purpose                          |
-|  1:17 | `מזרה`    | `ἐκτείνεται`         | Matched, Pres. Ind. for Ptc.                   |
-|  1:18 |           | `μετέχοντες`         | Unmatched                                      |
-|  1:18 | `יארבו`   |                      | Unmatched                                      |
-|  1:18 | `יצפנו`   | `θησαυρίζουσιν`      | Matched, Pres. Ind. for Yiqtol                 |
-|  1:19 | (vbless)  | `εἰσιν`              | Matched, Pres. for Vbless pred.                |
-|  1:19 | `בצע`     | `τῶν συντελούντων`   | Sem. diff, "seek unjust gain"/"perform"        |
-|  1:19 | `יקח`     | `ἀφαιροῦνται`        | Subject shift                                  |
-|  1:20 | `תרנה`    | `ὑμνεῖται`           | Act -> Pass                                    |
-|  1:20 | `תתן`     | `ἄγει`               | Sem. diff, "gives"/"leads"                     |
-|  1:21 | `תקרא`    | `κηρύσσεται`         | Sem. diff., "cries out"/"is heralded"          |
-|  1:21 |           | `παρεδρεύει`         | Unmatched (Double)                             |
-|  1:21 |           | `θαρροῦσα`           | Unmatched                                      |
-|  1:21 | `תאמר`    | `λέγει`              | Matched, Pres. Ind. for Yiqtol                 |
-|  1:22 |           | `ἔχωνται`            | Unmatched (interpretive)                       |
-|  1:22 |           | `αἰσχυνθήσονται`     | Unmatched (interpretive)                       |
-|  1:22 | `תאהבו`   |                      | Unmatched                                      |
-|  1:22 | `המדו`    | `ὄντες ἐπιθυμηταί`   | Matched, S-V-SC for Qal Pf.                    |
-|  1:22 |           | `γενόμενοι`          | Unmatched                                      |
-|  1:22 | `ישנאו`   | `ἐμίσησαν`           | Matched, Aor. Ind for Yiqtol                   |
-|  1:23 | `תשׁובו`   | `ὑπεύθυνοι ἐγένοντο` | Sem. Diff. "turn back"/"become liable"         |
-|  1:23 | `אביעה`   | `προήσομαι`          | Matched, slight sem. shift.                    |
-|  1:23 | `אודיעה`  | `διδάξω`             | Matched                                        |
-|  1:24 | `קראתי`   | `ἐκάλουν`            | Matched, Impf. Ind. for Qal Pf.                |
-|  1:24 | `ותמאנו`  | `ούχ ὑπηκούσατε`     | Matched, slight sem. shift                     |
-|  1:24 | `נטיתי`   | `ἐξέτεινον`          | Matched, Impf. Ind. for Qal Pf.                |
-|  1:24 | `מקשׁיב`   | `προσείχετε`         | Matched, but Impf. Ind. for Ptc.               |
-|  1:25 | `ותפרעו`  | `ἀκύρους ἐποιεῖτε`   | Matched; Good Gk in `ποιέω` mid. + vb. noun    |
-|  1:25 | `אביתם`   | `ἠπειθήσατε`         | Matched                                        |
-|  1:26 | `אשחק`    | `ἐπιγελάσομαι`       | Matched, Fut. Ind. for Yiqtol                  |
-|  1:26 | `אלעג`    | `καταχαροῦμαι`       | Matched, Fut. Ind. for Yiqtol                  |
-|  1:26 | `בבא`     | `ἡμίκα ἄν ἔρχηται`   | Matched, Good Gk, Subj. + `ἄν` for Temp. Inf.  |
-|  1:27 | `בבא`     | `ὡς ἄν ἀφίκηται`     | Matched, Good Gk, Subj. + `ἄν` for Temp. Inf.  |
-|  1:27 | `יאתה`    | `παρῇ`               | Matched, Pres. Ind. for Yiqtol                 |
-|  1:27 | `בבא`     | `ὅταν ἔρχηται`       | Matched, Good Gk., Subj. + `ἄν` for Temp. Inf. |
-|  1:27 |           | `ὅταν ἔρχηται`       | Unmatched, Double?                             |
-|  1:28 |           | `ἔσται`              | Unmatched, marker of future for `אז`           |
-|  1:28 | `יקראנני` | `ἐπικαλέσησθε`       | Matched, Future Subj. for Fut. Qal             |
-|  1:28 | `אענה`    | `εἰσακούσομαι`       | Sem. Diff., "answer"/"hear,listen"             |
-|  1:28 | `ישׁחרנני` | `ζητήσουσιν`         | Matched, Fut. Ind. for Yiqtol                  |
-|  1:28 | `ימצאנני` | `εὑρησουσιν`         | Matched, Fut. Ind. for Yiqtol                  |
-|  1:29 | `שנאו`    | `ἐμίσησαν`           | Matched, Aor. Ind. for Qal (cf. 1:22)          |
-|  1:29 | `בחרו`    | `προείλαντο`         | Matched, Aor. Ind. for Qal                     |
-|  1:30 | `אבו`     | `ἤθελον`             | Sem. Diff., "consent"/"willing"                |
-|  1:30 |           | `προσέχειν`          | Unmatched, helper for `ἤθελον`                 |
-|  1:30 | `נאצו`    | `ἐμυκτήριζον`        | Matched, Impf. Ind. for Qal Pf.                |
-|  1:31 | `ויאכלו`  | `ἔδονται`            | Matched, Fut. Ind. for Yiqtol                  |
-|  1:31 | `ישבעו`   | `πλησθήσονται`       | Matched, Fut. Ind. for Yiqtol                  |
-|  1:31 |           | `ἠδίκουν`            | Unmatched                                      |
-|  1:32 | `תהרגם`   | `φονευθήσονται`      | Act. -> Pass + subj. change                    |
-|  1:32 | `תאבדם`   | `ὀλεῖ`               | Matched, Fut. Ind. for Yiqtol                  |
-|  1:33 | `שׁמע`     | `ὁ ἀκούων`           | Matched, Ptc.                                  |
-|  1:33 | `ישׁכן`    | `κατασκηνώσει`       | Matched, Fut. Ind. for Yiqtol                  |
-|  1:33 | `שׁאנן`    | `ἡσυχάσει`           | Matched, Fut. Ind. for WeQatal                 |
+| Verse | Hebrew    | Greek                | Correspondance                                 | No. |
+|-------|-----------|----------------------|------------------------------------------------|-----|
+|   1:1 |           | `ἐβασίλευσεν`        | Unmatched                                      |   1 |
+|   1:2 | `לדעת`    | `γνῶναι`             | Matched Inf. purpose                           |   2 |
+|   1:2 | `להבין`   | `νοῆσαι`             | Matched Inf.  purpose                          |   3 |
+|   1:3 | `לקחת`    | `δέξασθαι`           | Matched Inf.  purpose                          |   4 |
+|   1:3 |           | `νοῆσαι`             | Unmatched                                      |   5 |
+|   1:3 |           | `κατευθύνειν`        | Unmatched                                      |   6 |
+|   1:4 | `לתת`     | `δῷ`                 | Subj. for Inf. purpose                         |   7 |
+|   1:5 | `ישׁמע`    | `ἀκούσας`            | Sup. Ptc. for Juss.                            |   8 |
+|   1:5 | `ויוסף`   | `ἔσται`              | S-V-SC for S-V-O                               |   9 |
+|   1:5 | `נבוֹן`    | `ὁ νοήμων`           | Matched Sub. Ptc.                              |  10 |
+|   1:5 | `יקנה`    | `κτήσεται`           | Fut. for Juss.                                 |  11 |
+|   1:6 | `להבין`   | `νοήσει`             | Fut. for Inf. purpose (cf.1:2)                 |  12 |
+|   1:7 |           | `τοῖς ποιοῦσιν`      | Unmatched, Psa. 110[111]:10                    |  13 |
+|   1:7 | `בזו`     | `ἐξουθενήσουσιν`     | Fut. for Qal pf.                               |  14 |
+|   1:8 | `שׁמע`     | `ἄκουε`              | Matched Imv.                                   |  15 |
+|   1:8 | `אל תטשׁ`  | `μὴ ἀπώσῃ`           | Matched, Hort. Sub. for Juss.                  |  16 |
+|   1:9 |           | `δέξῃ`               | Unmatched, implicit                            |  17 |
+|  1:10 | `יפתוך`   | `μὴ πλανήσωσιν`      | Hort. Subj. for Cond. Juss.                    |  18 |
+|  1:10 | `אל תבא`  | `μὴδε βουληθῇς`      | Matched                                        |  19 |
+|  1:10 |           | `παρακαλέσωσι`       | Unmatched                                      |  20 |
+|  1:11 | `יאמרו`   | `λέγοντες`           | Gk moved to v.10                               |  21 |
+|  1:11 | `לכה`     | `ἐλθέ`               | Matched, Imv.                                  |  22 |
+|  1:11 | `נארבה`   | `κοινώνησον`         | Sem. diff., "Lie in wait"/"share"              |  23 |
+|  1:11 | `נצפנה`   | `κρύψωμεν`           | Matched, Subj. for Cohor.                      |  24 |
+|  1:12 | `נבלעם`   | `καταπίωμεν`         | Matched, Subj. for Cohor.                      |  25 |
+|  1:12 |           | `ἄρωμεν`             | Unmatched                                      |  26 |
+|  1:13 | `נמצא`    | `καταλαβώμεθα`       | Matched, Subj. for Cohor.(?)/Yiqtol            |  27 |
+|  1:13 | `נמלא`    | `πλήσωμεν`           | Matched, Subj. for Cohor.(?)/Yiqtol            |  28 |
+|  1:14 | `תפיל`    | `βάλε`               | Matched, Imv. for Modal Yiqtol                 |  29 |
+|  1:14 |           | `κτησώμεθα`          | Unmatched (Double)                             |  30 |
+|  1:14 | `יהיה`    | `γενηθήτω`           | Imv. for Yiqtol future                         |  31 |
+|  1:15 | `אל תלך`  | `μὴ ποροευθῇς`       | Matched, Hort. Subj. for Juss                  |  32 |
+|  1:15 | `מנע`     | `ἔκκλινον`           | Matched, Imv.                                  |  33 |
+|  1:16 | `ירוצו`   | `τρέχουσιν`          | Matched, Pres. for Yiqtol                      |  34 |
+|  1:16 | `וימהרו`  | `(οἵ πόδες) ταχινοὶ` | Matched, S-V-SC for Yiqtol+Waw                 |  35 |
+|  1:16 | `לשׁפך`    | `τοῦ ἐκχέαι`         | Matched, Inf. purpose                          |  36 |
+|  1:17 | `מזרה`    | `ἐκτείνεται`         | Matched, Pres. Ind. for Ptc.                   |  37 |
+|  1:18 |           | `μετέχοντες`         | Unmatched                                      |  38 |
+|  1:18 | `יארבו`   |                      | Unmatched                                      |  39 |
+|  1:18 | `יצפנו`   | `θησαυρίζουσιν`      | Matched, Pres. Ind. for Yiqtol                 |  40 |
+|  1:19 | (vbless)  | `εἰσιν`              | Matched, Pres. for Vbless pred.                |  41 |
+|  1:19 | `בצע`     | `τῶν συντελούντων`   | Sem. diff, "seek unjust gain"/"perform"        |  42 |
+|  1:19 | `יקח`     | `ἀφαιροῦνται`        | Subject shift                                  |  43 |
+|  1:20 | `תרנה`    | `ὑμνεῖται`           | Act -> Pass                                    |  44 |
+|  1:20 | `תתן`     | `ἄγει`               | Sem. diff, "gives"/"leads"                     |  45 |
+|  1:21 | `תקרא`    | `κηρύσσεται`         | Sem. diff., "cries out"/"is heralded"          |  46 |
+|  1:21 |           | `παρεδρεύει`         | Unmatched (Double)                             |  47 |
+|  1:21 |           | `θαρροῦσα`           | Unmatched                                      |  48 |
+|  1:21 | `תאמר`    | `λέγει`              | Matched, Pres. Ind. for Yiqtol                 |  49 |
+|  1:22 |           | `ἔχωνται`            | Unmatched (interpretive)                       |  50 |
+|  1:22 |           | `αἰσχυνθήσονται`     | Unmatched (interpretive)                       |  51 |
+|  1:22 | `תאהבו`   |                      | Unmatched                                      |  52 |
+|  1:22 | `המדו`    | `ὄντες ἐπιθυμηταί`   | Matched, S-V-SC for Qal Pf.                    |  53 |
+|  1:22 |           | `γενόμενοι`          | Unmatched                                      |  54 |
+|  1:22 | `ישנאו`   | `ἐμίσησαν`           | Matched, Aor. Ind for Yiqtol                   |  55 |
+|  1:23 | `תשׁובו`   | `ὑπεύθυνοι ἐγένοντο` | Sem. Diff. "turn back"/"become liable"         |  56 |
+|  1:23 | `אביעה`   | `προήσομαι`          | Matched, slight sem. shift.                    |  57 |
+|  1:23 | `אודיעה`  | `διδάξω`             | Matched                                        |  58 |
+|  1:24 | `קראתי`   | `ἐκάλουν`            | Matched, Impf. Ind. for Qal Pf.                |  59 |
+|  1:24 | `ותמאנו`  | `ούχ ὑπηκούσατε`     | Matched, slight sem. shift                     |  60 |
+|  1:24 | `נטיתי`   | `ἐξέτεινον`          | Matched, Impf. Ind. for Qal Pf.                |  61 |
+|  1:24 | `מקשׁיב`   | `προσείχετε`         | Matched, but Impf. Ind. for Ptc.               |  62 |
+|  1:25 | `ותפרעו`  | `ἀκύρους ἐποιεῖτε`   | Matched; Good Gk in `ποιέω` mid. + vb. noun    |  63 |
+|  1:25 | `אביתם`   | `ἠπειθήσατε`         | Matched                                        |  64 |
+|  1:26 | `אשחק`    | `ἐπιγελάσομαι`       | Matched, Fut. Ind. for Yiqtol                  |  65 |
+|  1:26 | `אלעג`    | `καταχαροῦμαι`       | Matched, Fut. Ind. for Yiqtol                  |  66 |
+|  1:26 | `בבא`     | `ἡμίκα ἄν ἔρχηται`   | Matched, Good Gk, Subj. + `ἄν` for Temp. Inf.  |  67 |
+|  1:27 | `בבא`     | `ὡς ἄν ἀφίκηται`     | Matched, Good Gk, Subj. + `ἄν` for Temp. Inf.  |  68 |
+|  1:27 | `יאתה`    | `παρῇ`               | Matched, Pres. Ind. for Yiqtol                 |  69 |
+|  1:27 | `בבא`     | `ὅταν ἔρχηται`       | Matched, Good Gk., Subj. + `ἄν` for Temp. Inf. |  70 |
+|  1:27 |           | `ὅταν ἔρχηται`       | Unmatched, Double?                             |  71 |
+|  1:28 |           | `ἔσται`              | Unmatched, marker of future for `אז`           |  72 |
+|  1:28 | `יקראנני` | `ἐπικαλέσησθε`       | Matched, Future Subj. for Fut. Qal             |  73 |
+|  1:28 | `אענה`    | `εἰσακούσομαι`       | Sem. Diff., "answer"/"hear,listen"             |  74 |
+|  1:28 | `ישׁחרנני` | `ζητήσουσιν`         | Matched, Fut. Ind. for Yiqtol                  |  75 |
+|  1:28 | `ימצאנני` | `εὑρησουσιν`         | Matched, Fut. Ind. for Yiqtol                  |  76 |
+|  1:29 | `שנאו`    | `ἐμίσησαν`           | Matched, Aor. Ind. for Qal (cf. 1:22)          |  77 |
+|  1:29 | `בחרו`    | `προείλαντο`         | Matched, Aor. Ind. for Qal                     |  78 |
+|  1:30 | `אבו`     | `ἤθελον`             | Sem. Diff., "consent"/"willing"                |  79 |
+|  1:30 |           | `προσέχειν`          | Unmatched, helper for `ἤθελον`                 |  80 |
+|  1:30 | `נאצו`    | `ἐμυκτήριζον`        | Matched, Impf. Ind. for Qal Pf.                |  81 |
+|  1:31 | `ויאכלו`  | `ἔδονται`            | Matched, Fut. Ind. for Yiqtol                  |  82 |
+|  1:31 | `ישבעו`   | `πλησθήσονται`       | Matched, Fut. Ind. for Yiqtol                  |  83 |
+|  1:31 |           | `ἠδίκουν`            | Unmatched                                      |  84 |
+|  1:32 | `תהרגם`   | `φονευθήσονται`      | Act. -> Pass + subj. change                    |  85 |
+|  1:32 | `תאבדם`   | `ὀλεῖ`               | Matched, Fut. Ind. for Yiqtol                  |  86 |
+|  1:33 | `שׁמע`     | `ὁ ἀκούων`           | Matched, Ptc.                                  |  87 |
+|  1:33 | `ישׁכן`    | `κατασκηνώσει`       | Matched, Fut. Ind. for Yiqtol                  |  88 |
+|  1:33 | `שׁאנן`    | `ἡσυχάσει`           | Matched, Fut. Ind. for WeQatal                 |  89 |
 
