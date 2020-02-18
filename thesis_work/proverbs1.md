@@ -154,23 +154,23 @@ Freely rendered, with some **Literality**. Gk `προήσομαι` belongs to th
 **Literal**. Hb `דברי` "my words" becomes Gk `τὸν ἐμὸν λόγον`, a switch to the singular, which is accurate based on the consonants. Addition of Gk `δὲ** is usual for the translator.
 
 ### 24a
-**Literal**. Hb `ותמאנו` becomes `οὐχ ὑπηκούσατε**, which is the semantically transformed negative. Hb encodes the negative nuance lexemically.
+**Literal**. Hb `ותמאנו` becomes `οὐχ ὑπηκούσατε`, which is the semantically transformed negative. Hb encodes the negative nuance lexemically.
 
 ### 24b
 **Literal**. Hb `ידי` is transformed to `λόγούς` which fits the new context in Gk, where Wisdom is pouring out words and speech. Gk `προσέχω` for Hb `קשׁב` (Hif** is the first of many of this pair.
 
 ### 25a
-**Literal**. Hb `פרע` "to disregard" is encoded in Gk as `ἀκύρους ἐποιεῖτε`. Singlur to plural shift in `βουλάς**.
+**Literal**. Hb `פרע` "to disregard" is encoded in Gk as `ἀκύρους ἐποιεῖτε`. Singlur to plural shift in `βουλάς`.
 
 ### 25b
-**Literal**. Gk `ἀπειθέω` "refuse compliance" (LSJ) for Hb `אבה`. Another plural shift in `ἐλένχοις**.
+**Literal**. Gk `ἀπειθέω` "refuse compliance" (LSJ) for Hb `אבה`. Another plural shift in `ἐλένχοις`.
 
 ### 26a
-**Literal**. Gk `τοιγαροῦν` a Greek polish. Gk `ὑμετέρα** shows the translator's preference up to this point for the adjectival pronouns.
+**Literal**. Gk `τοιγαροῦν` a Greek polish. Gk `ὑμετέρα` shows the translator's preference up to this point for the adjectival pronouns.
 > A study of the adjectival pronouns in OG Proverbs would be a great paper.
 
 ### 26b
-**Literal**. Addition of `δέ**.
+**Literal**. Addition of `δέ`.
 
 ### 27a
 **Literal**, with freer elements. Gk `ἄφνω` is unmatched in the Hb. Gk `θόρυβος` and Hb `פחד` do not normally occupy the same semantic space. Hb possesive suffix is excluded. Hb `כשׁואה** is omitted, perhaps to avoid repetition with 27b.
@@ -182,7 +182,7 @@ Freely rendered, with some **Literality**. Gk `προήσομαι` belongs to th
 **Literal**. Hb `עליכם` captured by Gk `ὑμῖν`. Gk 27d **Double Rendering?**, or corruption from 26b (`ἡνίκα ἄν ἔρχηται ὄλεθρος`)? Perhaps added to echo 26b. If it truly is a double rendering of Hb 27c, it constitutes a fairly **Literal** rendering, minus 1 word.
 
 ### 28a
-Free adaptations with **Literal** backbone. Gk `ἔσται γὰρ ὅταν` captures Hb `אז`, but removes the future nuance of Hb toward a subjunctive/potential mood. Hb `לא אענא` "I will not answer" is transformed to `οὐκ εἰσακούσομαι` "I will not listen" plus an object `ὑμῶν**.
+Free adaptations with **Literal** backbone. Gk `ἔσται γὰρ ὅταν` captures Hb `אז`, but removes the future nuance of Hb toward a subjunctive/potential mood. Hb `לא אענא` "I will not answer" is transformed to `οὐκ εἰσακούσομαι` "I will not listen" plus an object `ὑμῶν`.
 
 ### 28b
 **Literal**, but with a moral addition of `κακοἰ**.
@@ -191,13 +191,13 @@ Free adaptations with **Literal** backbone. Gk `ἔσται γὰρ ὅταν` c
 **Literal**
 
 ### 30a
-Free with **Literal** elements. Translator added `οὐδέ` to create parity with 29. Hb `אבו` becomes `ἤθελον προσέχειν`, which is a fair rendering though contrived. Gk `προσέχω` is the sterotypical pairing to `קשׁב` (TC issue?**.
+Free with **Literal** elements. Translator added `οὐδέ` to create parity with 29. Hb `אבו` becomes `ἤθελον προσέχειν`, which is a fair rendering though contrived. Gk `προσέχω` is the sterotypical pairing to `קשׁב` (TC issue?).
 
 ### 30b
-**Literal**, minus `כל**.
+**Literal**, minus `כל`.
 
 ### 31a
-**Literal**, plus `τοιγαροῦν` which likely derives from the _yiqtol_ + _waw** for consequence or result.
+**Literal**, plus `τοιγαροῦν` which likely derives from the _yiqtol_ + _waw_ for consequence or result.
 
 ### 31b
 **Literal**, except `ממעצתיהם` becomes `ἀσεβείας`, either out of the translator's commitment to moral distinctions or becuase he didn't know the word (likely the former).
