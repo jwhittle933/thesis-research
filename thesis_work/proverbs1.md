@@ -272,7 +272,7 @@ Freely translated. `שׁלוה` becomes `ἐξετασμός` "inquiry", perhaps
 |   1:8 | `אל תטשׁ`  | `μὴ ἀπώσῃ`           | Matched, Hort. Sub. for Juss.                  |  16 |
 |   1:9 |           | `δέξῃ`               | Unmatched, implicit                            |  17 |
 |  1:10 | `יפתוך`   | `μὴ πλανήσωσιν`      | Hort. Subj. for Cond. Juss.                    |  18 |
-|  1:10 | `אל תבא`  | `μὴδε βουληθῇς`      | Matched                                        |  19 |
+|  1:10 | `אל תבא`  | `μὴδε βουληθῇς`      | Matched, Hort. Sub. for Juss.                  |  19 |
 |  1:10 |           | `παρακαλέσωσι`       | Unmatched                                      |  20 |
 |  1:11 | `יאמרו`   | `λέγοντες`           | Gk moved to v.10                               |  21 |
 |  1:11 | `לכה`     | `ἐλθέ`               | Matched, Imv.                                  |  22 |
