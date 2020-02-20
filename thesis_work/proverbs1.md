@@ -306,15 +306,15 @@ Freely translated. `שׁלוה` becomes `ἐξετασμός` "inquiry", perhaps
 |  1:22 |           | `ἔχωνται`            | Unmatched (interpretive)                       |  50 |
 |  1:22 |           | `αἰσχυνθήσονται`     | Unmatched (interpretive)                       |  51 |
 |  1:22 | `תאהבו`   |                      | Unmatched                                      |  52 |
-|  1:22 | `המדו`    | `ὄντες ἐπιθυμηταί`   | Matched, S-V-SC for Qal Pf.                    |  53 |
+|  1:22 | `המדו`    | `ὄντες ἐπιθυμηταί`   | Matched, S-V-SC for Pf.                        |  53 |
 |  1:22 |           | `γενόμενοι`          | Unmatched                                      |  54 |
 |  1:22 | `ישנאו`   | `ἐμίσησαν`           | Matched, Aor. Ind for Yiqtol                   |  55 |
 |  1:23 | `תשׁובו`   | `ὑπεύθυνοι ἐγένοντο` | Sem. Diff. "turn back"/"become liable"         |  56 |
 |  1:23 | `אביעה`   | `προήσομαι`          | Matched, slight sem. shift.                    |  57 |
 |  1:23 | `אודיעה`  | `διδάξω`             | Matched                                        |  58 |
-|  1:24 | `קראתי`   | `ἐκάλουν`            | Matched, Impf. Ind. for Qal Pf.                |  59 |
+|  1:24 | `קראתי`   | `ἐκάλουν`            | Matched, Impf. Ind. for Pf.                    |  59 |
 |  1:24 | `ותמאנו`  | `ούχ ὑπηκούσατε`     | Matched, slight sem. shift                     |  60 |
-|  1:24 | `נטיתי`   | `ἐξέτεινον`          | Matched, Impf. Ind. for Qal Pf.                |  61 |
+|  1:24 | `נטיתי`   | `ἐξέτεινον`          | Matched, Impf. Ind. for Pf.                    |  61 |
 |  1:24 | `מקשׁיב`   | `προσείχετε`         | Matched, but Impf. Ind. for Ptc.               |  62 |
 |  1:25 | `ותפרעו`  | `ἀκύρους ἐποιεῖτε`   | Matched; Good Gk in `ποιέω` mid. + vb. noun    |  63 |
 |  1:25 | `אביתם`   | `ἠπειθήσατε`         | Matched                                        |  64 |
@@ -326,15 +326,15 @@ Freely translated. `שׁלוה` becomes `ἐξετασμός` "inquiry", perhaps
 |  1:27 | `בבא`     | `ὅταν ἔρχηται`       | Matched, Good Gk., Subj. + `ἄν` for Temp. Inf. |  70 |
 |  1:27 |           | `ὅταν ἔρχηται`       | Unmatched, Double?                             |  71 |
 |  1:28 |           | `ἔσται`              | Unmatched, marker of future for                |  72 |
-|  1:28 | `יקראנני` | `ἐπικαλέσησθε`       | Matched, Future Subj. for Fut. Qal             |  73 |
+|  1:28 | `יקראנני` | `ἐπικαλέσησθε`       | Matched, Future Subj. for Fut. Yiqtol          |  73 |
 |  1:28 | `אענה`    | `εἰσακούσομαι`       | Sem. Diff., "answer"/"hear,listen"             |  74 |
 |  1:28 | `ישׁחרנני` | `ζητήσουσιν`         | Matched, Fut. Ind. for Yiqtol                  |  75 |
 |  1:28 | `ימצאנני` | `εὑρησουσιν`         | Matched, Fut. Ind. for Yiqtol                  |  76 |
-|  1:29 | `שנאו`    | `ἐμίσησαν`           | Matched, Aor. Ind. for Qal (cf. 1:22)          |  77 |
-|  1:29 | `בחרו`    | `προείλαντο`         | Matched, Aor. Ind. for Qal                     |  78 |
+|  1:29 | `שנאו`    | `ἐμίσησαν`           | Matched, Aor. Ind. for Pf. (cf. 1:22)          |  77 |
+|  1:29 | `בחרו`    | `προείλαντο`         | Matched, Aor. Ind. for Pf.                     |  78 |
 |  1:30 | `אבו`     | `ἤθελον`             | Sem. Diff., "consent"/"willing"                |  79 |
 |  1:30 |           | `προσέχειν`          | Unmatched, helper for `ἤθελον`                 |  80 |
-|  1:30 | `נאצו`    | `ἐμυκτήριζον`        | Matched, Impf. Ind. for Qal Pf.                |  81 |
+|  1:30 | `נאצו`    | `ἐμυκτήριζον`        | Matched, Impf. Ind. for Pf.                |  81 |
 |  1:31 | `ויאכלו`  | `ἔδονται`            | Matched, Fut. Ind. for Yiqtol                  |  82 |
 |  1:31 | `ישבעו`   | `πλησθήσονται`       | Matched, Fut. Ind. for Yiqtol                  |  83 |
 |  1:31 |           | `ἠδίκουν`            | Unmatched                                      |  84 |
