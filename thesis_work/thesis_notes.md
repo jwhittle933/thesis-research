@@ -67,17 +67,14 @@ Chapter 5: Conclusion
 **1:7b** σύνεσις δὲ ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν
 
 Taken from Ps 111[110]:10, along with 7a:
-
 ```
 ἀρχὴ σοφίας φόβος κυρίου, 
 σύνεσις ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν, 
 ἡ αἴνεσις αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος
 ```
-
-Joosten, "The relation of the Septuagint of Proverbs to Psalms" in Septuagint, Sages, and Scripture, 103, says, "The additional lines undoubtedly have their origin in the Psalms. The problem is that it is hard to know at what stage the addition was made. It is possible that the translator was the one who borrowed the addition from the Greek version of Psalms. But other scenarios can be imagined as well. The additional lines may have been present already in the Hebrew source text of Prov. 1:7. If so, the Greek translation could be original in Proverbs and borrowed in Psalms. Another possibility is that the additional lines were added into the Greek text of Proverbs secondarily, in the course of scribal transmission." Psalm 111[110] is a Psalm of praise (Αλληλουια**, that praises God for his great works, enternal righteousness, and his mercy toward his people. Becuase OG 7a is a fair rendering of Hb 7a, one does have to wonder if OG 7b was inserted later, accidentally or intentionally. If this is true, we still lack explaination for OG 7c, unless we posit separate transmission histories and causes for each additional colon."
+Joosten, "The relation of the Septuagint of Proverbs to Psalms" in Septuagint, Sages, and Scripture, 103, says, "The additional lines undoubtedly have their origin in the Psalms. The problem is that it is hard to know at what stage the addition was made. It is possible that the translator was the one who borrowed the addition from the Greek version of Psalms. But other scenarios can be imagined as well. The additional lines may have been present already in the Hebrew source text of Prov. 1:7. If so, the Greek translation could be original in Proverbs and borrowed in Psalms. Another possibility is that the additional lines were added into the Greek text of Proverbs secondarily, in the course of scribal transmission." Psalm 111[110] is a Psalm of praise (**Αλληλουια**, that praises God for his great works, enternal righteousness, and his mercy toward his people. Becuase OG 7a is a fair rendering of Hb 7a, one does have to wonder if OG 7b was inserted later, accidentally or intentionally. If this is true, we still lack explaination for OG 7c, unless we posit separate transmission histories and causes for each additional colon."
 
 #### Chapter 2
-
 Chapter 2 has largely been re-read with slightly new intention and meaning.
 
 **2:2c** 

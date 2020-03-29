@@ -1,5 +1,5 @@
 # Proverbs 1
-All verse references are relative to the MT
+All verse references are relative to the MT. Most freedome seen in verses 7, 10, 11, 12, 18, and 22.
 
 ### 1a
 **Literal**
