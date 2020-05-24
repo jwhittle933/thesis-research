@@ -19,8 +19,8 @@ Greek Proverbs 1:7 is noticeably longer than the MT (4 stichoi versus 2). Line 7
 	Alternatively, the translator assimilated the text of OG Psalm 110:10 [Hb 111:10] into his translation without a doubling of the usual pattern. [^3] The texts of the Psalm in Greek and Hebrew are presented below:
 
 | text                                                                                                                 | translation |
-| ἀρχὴ σοφίας φόβος κυρίου<br>σύνεσις ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν<br>ἡ αἴνεσις αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος | tbd         |
-| ראשׁית חכמה יראת יהוה<br>שׂכל טוב לכל עשׂיהם<br>תהלתו עמדת לעד<br>                                                      | tbd         |
+| ἀρχὴ σοφίας φόβος κυρίου σύνεσις ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν ἡ αἴνεσις αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος | tbd         |
+| ראשׁית חכמה יראת יהוה שׂכל טוב לכל עשׂיהם תהלתו עמדת לעד                                                        | tbd         |
     
 [^1]: James Barr, The Typology of Literalism in ancient biblical translations, Mitteilungen des Septuagina-Unternehms XV, Göttingen: Vandenhoeck & Ruprecht, 1979, 11.
 
