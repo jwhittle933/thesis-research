@@ -22,9 +22,21 @@ Greek Proverbs 1:7 is noticeably longer than the MT (4 stichoi versus 2). Line 7
 | -----------                                                                                                          | ----------- |
 | ἀρχὴ σοφίας φόβος κυρίου<br>σύνεσις ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν<br>ἡ αἴνεσις αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος | The beginning of wisdom is the fear of the Lord,<br>understanding is good to those who practice it,<br>His praise endures forever.    |
 | ראשׁית חכמה יראת יהוה<br>שׂכל טוב לכל עשׂיהם<br>תהלתו עמדת לעד<br>                                                      | The beginning of wisdom is the fear of the Lord,<br>good understanding to all who practice them,<br>His praise endures forever.  |
-    
-[^1]: James Barr, The Typology of Literalism in ancient biblical translations, Mitteilungen des Septuagina-Unternehms XV, Göttingen: Vandenhoeck & Ruprecht, 1979, 11.
 
-[^2]: What Cooke refers to as “religious motivations”. Cooke, The Septuagint of Proverbs, 30.
+D’Hamonville remarks that there is both doubling (where 7cd correspond to Hb) and a “borrowing” from Psalm 110 (111) for 7ab, who also views 7a (and 5a) as forming an inclusio of sorts with OG 9:9a and 10a.*1* Doubling, for D’Hamonville, is essentially on the basis of two Hebrew lines reflected by 4 Greek lines.*2* He also rejects the idea that the additional material is Hexaplaric. Cook likewise rejects Hexaplaric origins and believes that the translator “deliberately quotes from the Psalm in order to make a clear statement as to where knowledge and wisdom originate”.*3* Joosten’s comment is the most thorough:
+“Dans la LXX, le v. 7 est redoublé...Ce sont les stiques cd qui correspondent au TM, le « addition » ab apparaissant comme un emprunt au Ps 110 (111), 10”. David Marc D’Hamonville, Les Proverbes, La Bible D’Alexandrie 17 (Paris: Cerf, 2000), 160-161.
+*2*For an in-depth treatment of double translations, see Zippora Talshir, “Double Translations in the Septuagint”, VI Congress of the International Organization for Septuagint and Cognate Studies, Jerusalem 1986 (Atlanta: Scholars Press, 1987). In it she defines double translations as “cases of one item in the Masoretic Text (MT) being matched with two items in the Septuagint (LXX)” (21), though she concedes that there is space for diverging views. Her definition extends to the entirety of the Greek Old Testament, and as such is broad enough to encompass many different forms of double translations. For Greek Proverbs, her definition is too broad to meaningfully classify actual examples of double renderings. 
+*3*Johann Cook, The Septuagint of Proverbs, 61.
+```
+The additional lines undoubtedly have their origin in the Psalms. The problem is that it is hard to know at what stage the addition was made. It is possible that the translator was the one who borrowed the addition from the Greek version of Psalms. But other scenarios can be imagined as well. The additional lines may have been present already in the Hebrew source text of Prov. 1:7. If so, the Greek translation could be original in Proverbs and borrowed in Psalms. Another possibility is that the additional lines were added into the Greek text of Proverbs secondarily, in the course of scribal transmission.*1*
+*1*Jan Joosten, “The Relation of the Septuagint of Proverbs to Psalms”, Septuagint, Sages, and Scripture: Studies in Honour of Johann Cook, Supplements to Vetus Testamentum 172, eds. Randall X. Gauthier, Gideon R. Kotzé, and Gert J. Steyn (Leiden: Brill, 2016). 
+```
+In other words, tracing the origin of the material is a tricky business indeed.
+Regarding a variant Hebrew tradition, the external evidence does not provide enough to support it.*1* Two traditions which have an established dependence on the OG, Peshitta (in Proverbs) and Vetus Latina (all of OG), support the stichic structure in MT:
+*1*This fact does not make it an impossible option, but rather a doubtful option. 
 
-[^3]: See the apparatus at 1:7 in Jan de Waard, Proverbs. Biblia Hebraica Qunita 17 (Stuttgart: Deutsche Bibelgesellschaft, 2008). No variant is given in BHS.
+| text                                                  | translation                                                                                 |
+|-------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| ܪܝܫ ܚܟܡܬܐ ܕܚܠܬܗ ܕܡܪܝܐ<br>ܝܕܥܬܐ ܕܝܢ ܘܡܪܕܘܬܐ ܫܝܛܝܢ ܥܘܠܐ | The beginning of wisdom is fear of the Lord,<br>knowledge and discipline the unjust despise |
+|  *Timor Domini, initium sensus,<br>sapientiam autem et disciplinam impii spernunt* | Fear of the Lord is the beginning of understanding,<br>but prudence and discipline the impious despise |
+
