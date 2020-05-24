@@ -1,5 +1,5 @@
 # Thesis
-**Title**: Re-reading the Sacred Text: Surface and Deep Structure Changes in Proverbs 1-9
+**Title**: Re-reading the Sacred Text: Stichic Additions, Interpretations, and Double Renderings in Proverbs 1-9
 
 Chapter 1: Stichs and Stones: Scholarly Interactions with LXX Proverbs
 
