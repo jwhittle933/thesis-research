@@ -1,6 +1,6 @@
 # Additions in OG Proverbs 1-9
 
-**1:7ab**
+### **1:7ab**
 
 *Greek*
 ```
