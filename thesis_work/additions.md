@@ -1,7 +1,11 @@
 # Additions in OG Proverbs 1-9
 
-### **1:7ab**
+## **1:7ab**
 
+| text                                                                                                                 | translation |
+| -----------                                                                                                          | ----------- |
+| `Ἀρχὴ σοφίας φόβος θεοῦ`<br>`σύνεσις δὲ ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν`<br>`εὐσέβεια δὲ εἰς θεὸν ἀρχὴ αἰσθέσεως`<br>`σοφίαν δὲ καὶ παιδείαν ἀσεβεῖς ἐξουθενήσουσιν` | The beginning of wisdom is the fear of God,<br>understanding is good to all who practice it,<br>piety toward God is the beginning of sense,<br>wisdom and instruction fools despise |
+| `יראת יהוה ראשׁית דעת`<br>`חכמה ומוסר אוילים בזו`  |Fear of YHWH is the beginning of knowledge,<br>wisdom and discipline fools despise |
 *Greek*
 ```
 Ἀρχὴ σοφίας φόβος θεοῦ
@@ -53,3 +57,26 @@ The Vetus Latina is particularly noteworthy, as it is well known that the entire
 *5*Rhalfs notes that A reads κυριου.
 *6*Cf. also παρανόμων for אוילים at 14:9.
 *7*Evert van Emde Boas, Albert Rijksbaron, Luuk Huitink, and Matthieu de Bakker, The Cambridge Grammar of Classical Greek (Cambridge: CUP, 2019), 426.
+
+## *1:18b*
+
+| text                                                                                                                 | translation |
+| -----------                                                                                                          | ----------- |
+| `αὐτοὶ γὰρ οἱ φόνου μετέχοντες θησαυρίζουσιν ἑαυτοῖς κακά`<br>`ἡ δὲ καταστροφῆ ἀνδρῶν παρανόμων κακή` | For they who have a share in murder are storing up evil for themselves,<br>and the ruin of lawless men is evil. |
+| `והם לדמם יארבו`<br>`יצפנו לנפשׁתם`| But they lie in wait for their own blood,<br>they hide for their own lives. |
+
+Greek 1:18 is so freely rendered that the base text is almost unrecognizable. D’Hamonville splits the Greek into three stichoi, but I find this to be forced.*1* A better understanding is that the translator collapsed all of Hb 18 into a single, longer line (18a) and added his own (18b).*2* The closest that the verse gets to literal is αὐτοί for הם. In the first place, Hebrew ו becomes γὰρ in Greek and was added by the translator in keeping with his new literary structure for chapter 1. In Hebrew, verses 16 and 17 both begin with causal כי, and to make the literary link stronger he continued the pattern into verse 18. Greek οἱ φόνου μετέχοντες is a conceptual adaptation of Hebrew 14a intended to parallel נארבה לדם in verse 11. In this case, the translator spins the content of the Hebrew to generate his own new exegetical thrust. The Hebrew text demonstrates the principle of retribution, the actions of the scoundrels soon to be turned upon their own heads. In Greek, retribution is still detectable but in a different way. Rather than reciprocal punishment, the actions of murderers are much more abstractly “storing up evil”. As well, the synonymous parallelism is broken in favor of more prosodic verse.*3*
+	Greek μετέχω is used infrequently in the Septuagint (10x). Cooke asserts that it corresponds to ארב, but this is entirely unlikely.*4* Similar to verse 11, the translator omitted any trace of ארב in favor of an epexegetical rendering. In all of Proverbs, he only renders this Hebrew lexeme literally once (7:12), which makes μετέχω = ארב highly suspect. This also leads me to believe that he may not have had a clear understanding of its meaning. θησαυρίζουσιν is an adaptation of יצפנו. I say adaptation because the translator was influenced by the lexeme, but did not render it as it lies in the text. As in verse 11, the translator took צפן transitively. 
+	In the next place, he collapsed both לדמם or לנפשׁתם into a single reference, ἑαυτοῖς. This combined rendering stands in stark contrast to the double rendering in verse 14. Greek κακός is used frequently throughout Proverbs (4x in chapter 1, 2x in this verse) and here demonstrates a moral adaptation of the context. In 3 of the 4 occurrences in chapter 1, κακός is a free translator addition, the exception being κακοῦ for רעה in 1:33. The use of the plural in 18a may indicate a multitude of troubles that follow this way of life, whether in series over time or all at once. Interestingly, the most common form of κακός in the Psalms is the neuter plural, which may account for this form here. Cooke notes the similarity of this verse with 16:17 and believes that the translator accounted for this when translating here.*5* The translator demonstrates his familiarity both with other parts of the Greek canon as well as his own book, which makes this a strong possibility.
+	Line b is an entirely free addition. De Lagarde notes that this line is missing in the current Hebrew text, but proposes a retroverted Hebrew that may have been the translator’s Vorlage.*6* Cooke again rightly notes the presence of the translator’s characteristic word combinations, ἀνδρῶν παρανόμων, which further shows his commitment to sharp moral distinctions between the righteous and ungodly.*7* Whether this line comes from a lost Hebrew manuscript cannot move beyond conjecture. What is known, however, is the remarkable amount of freedom in 18a. This leads me to believe that 18b is a raw addition created by the translator to complete the bistich present in Hebrew. As shown for verses 10 and 11, the translator was reading stichometrically. The addition here, though entirely free, was included as a contextual adaptation to match the stichometry and intention of the Hebrew text. As well, this line may have been intended to foreshadow 1:27: ἡ δὲ καταστροφὴ ὁμοίως καταιγίδι παρῇ. Greek καταστροφή is used only here and in 1:27 in Proverbs. D’Hamonville believe this to be a case of classical usage based on the meaning “end of life, death”, and connects it to the ruin of Sodom.*8* The word does occurs for the first time in the narrative of Sodom in the LXX, but the evidence he presents is too little to conclude that the meaning is classical. The word is used in this way throughout the LXX, perhaps indicating that the meaning remained consistent from the classical to early Hellenistic period. Moreover, the word could reasonably be understood to mean “ruin” or “overturning” and still make sense in context.
+*1*D’Hamonville, Proverbes, 162.
+*2*This appears to be Cooke’s understanding as well. Cooke, The Septuagint of Proverbs, 79.
+*3*D’Hamonville, Proverbes, 163.
+*4*Cooke, The Septuagint of Proverbs, 80. See also Edwin Hatch and Henry A. Redpath, A Concordance to the Septuagint and the Other Greek Versions of the Old Testament (Including the Apocryphal Books), vol. II, Κ-Ω (Oxford: Clarendon Press, 1975), 917. 
+*5*ἀνὴρ ἄφρων ὀρύσσει  ἑαυτῷ κακά, ἐπὶ δὲ τῶν ἑαυτοῦ χειλέων θησαυρίζει πῦρ. Cooke, The Septuagint of Proverbs, 80. 
+*6*His retroverted text is וְאַחֲרִית אַנְשֵׁי עָוֹן בִּישָׁה. De Lagarde, Anmerkungen, 8.
+*7*Cooke, The Septuagint of Proverbs, 80. 
+*8*D’Hamonville, Proverbes 163. 
+
+## *2:2c*
+
