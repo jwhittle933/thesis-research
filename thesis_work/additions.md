@@ -20,8 +20,8 @@ Greek Proverbs 1:7 is noticeably longer than the MT (4 stichoi versus 2). Line 7
 
 | text                                                                                                                 | translation |
 | -----------                                                                                                          | ----------- |
-| ἀρχὴ σοφίας φόβος κυρίου<br>σύνεσις ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν<br>ἡ αἴνεσις αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος | tbd         |
-| ראשׁית חכמה יראת יהוה<br>שׂכל טוב לכל עשׂיהם<br>תהלתו עמדת לעד<br>                                                      | tbd         |
+| ἀρχὴ σοφίας φόβος κυρίου<br>σύνεσις ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν<br>ἡ αἴνεσις αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος | The beginning of wisdom is the fear of the Lord,<br>understanding is good to those who practice it,<br>His praise endures forever.    |
+| ראשׁית חכמה יראת יהוה<br>שׂכל טוב לכל עשׂיהם<br>תהלתו עמדת לעד<br>                                                      | The beginning of wisdom is the fear of the Lord,<br>good understanding to all who practice them,<br>His praise endures forever.  |
     
 [^1]: James Barr, The Typology of Literalism in ancient biblical translations, Mitteilungen des Septuagina-Unternehms XV, Göttingen: Vandenhoeck & Ruprecht, 1979, 11.
 
