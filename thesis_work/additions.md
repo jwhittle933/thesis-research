@@ -18,9 +18,10 @@ Greek Proverbs 1:7 is noticeably longer than the MT (4 stichoi versus 2). Line 7
 	Before more can be said about translation technique, the difficulty of the additional lines must be resolved. Two preliminary options are available: double rendering or assimilation. If taken to be a double translation, this would mark the first of many in the translation as a whole. However, another difficulty arises, namely, that it breaks from the common pattern for doubles in OG Proverbs. Double renderings typically take the form of a bistich where the two lines lie adjacent in the text and where both clearly correspond to a single line in the parent. In the case of Greek 1:7, either the Hebrew in its entirety has be translated twice or Hb 7a alone has been translated twice (OG 7ac) and is separated by an additional stich. In either case, OG 7b stands out as either exegetical provision of context or the translator’s creativity with no clear semantic path from parent to translation. 
 	Alternatively, the translator assimilated the text of OG Psalm 110:10 [Hb 111:10] into his translation without a doubling of the usual pattern. [^3] The texts of the Psalm in Greek and Hebrew are presented below:
 
-| text                                                                                                                 | translation |
+| text                                                                                                           | translation |
+| -----------                                                                                                    | ----------  |
 | ἀρχὴ σοφίας φόβος κυρίου σύνεσις ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν ἡ αἴνεσις αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος | tbd         |
-| ראשׁית חכמה יראת יהוה שׂכל טוב לכל עשׂיהם תהלתו עמדת לעד                                                        | tbd         |
+| ראשׁית חכמה יראת יהוה שׂכל טוב לכל עשׂיהם תהלתו עמדת לעד                                                          | tbd         |
     
 [^1]: James Barr, The Typology of Literalism in ancient biblical translations, Mitteilungen des Septuagina-Unternehms XV, Göttingen: Vandenhoeck & Ruprecht, 1979, 11.
 
