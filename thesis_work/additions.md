@@ -22,5 +22,7 @@ Greek Proverbs 1:7 is noticeably longer than the MT (4 stichoi versus 2). Line 7
 | ראשׁית חכמה יראת יהוה<br>שׂכל טוב לכל עשׂיהם<br>תהלתו עמדת לעד<br>                                                                                                          |
     
 [^1]: James Barr, The Typology of Literalism in ancient biblical translations, Mitteilungen des Septuagina-Unternehms XV, Göttingen: Vandenhoeck & Ruprecht, 1979, 11.
+
 [^2]: What Cooke refers to as “religious motivations”. Cooke, The Septuagint of Proverbs, 30.
+
 [^3]: See the apparatus at 1:7 in Jan de Waard, Proverbs. Biblia Hebraica Qunita 17 (Stuttgart: Deutsche Bibelgesellschaft, 2008). No variant is given in BHS.
