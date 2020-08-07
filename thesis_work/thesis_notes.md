@@ -20,8 +20,8 @@ Chapter 5: Conclusion
 |   Chapter | Additions                        | Interpretations                     | Doubles          | Other                            |
 | --------: | ----------                       | -------                             | ---------------- | -----                            |
 |         1 | 7ab,18b(?)                       | 5,12b,18a,19ab,22,23                | 7,14,21,27       | 10b(11a MT),21(2 -> 3 stichoi)   |
-|         2 | 2c(?),3c,17a                     | 7,10b,16ab,20ab                     | 2(?),19,21       | 13a(+ ὦ)                         |
-|         3 | 6c,15bc,16a,16A,22A,28c(<-27:1b) | 3c,4a,12b,14ab,18b,22,27a           |                  | 3c(omit),4a(-> 3c OG)            |
+|         2 | 2c(?),3c,17a                     | 7,10b,16ab,20ab                     | 2(?),3(?)19,21   | 13a(+ ὦ)                         |
+|         3 | 6c,15bc,16a,16A,22A,28c(<-27:1b) | 3c,4a,12b,14ab,18b,22,27a,34a       |                  | 3c(omit),4a(-> 3c OG)            |
 |         4 | 27AB                             | 4b,4cHb(~>5aOG),16c                 | 10               | 7(omit)                          |
 |         5 | 3a,23b                           | 2b,3c(3bHb),5abc,19                 |                  | 18a(confusion),13(a/b conflated) |
 |         6 | 8ABC,10a,11A,22a                 | 2ab,3,6,14b,16ab                    | 25               |                                  |
