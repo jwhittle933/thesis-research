@@ -1,17 +1,62 @@
 # Thesis
-**Title**: Re-reading the Sacred Text: Stichic Additions, Interpretations, and Double Renderings in Proverbs 1-9
+**Title**: Re-reading the Sacred Text: A Translation Technical Study of Greek Proverbs 1-9
 
-Chapter 1: Stichs and Stones: Scholarly Interactions with LXX Proverbs
-
-Chapter 2: N Things the Lord Hates, N+1 Things That Are An Abomination: Translator Additions
-
-Chapter 3: Interpres Decoratus
-> 'Dad, you taught me everything I know about exterior illumination' - Clark Griswold
-
-Chapter 4: Which One Are You, Again?: Double Translations
-
-Chapter 5: Conclusion
-> 'Sometimes I'll start a sentence and I don't even know where it's going I just hope I find it along the way' - Michael Scott
+### Chapter 1: Stichs and Stones: Scholarly Interactions with LXX Proverbs
+### Chapter 2: Proverbs 1
+- Verses
+- Summary
+  - Additions
+  - Interpretations
+  - Double Renderings
+### Chapter 3: Proverbs 2
+- Verses
+- Summary
+  - Additions
+  - Interpretations
+  - Double Renderings
+### Chapter 4: Proverbs 3
+- Verses
+- Summary
+  - Additions
+  - Interpretations
+  - Double Renderings
+### Chapter 5: Proverbs 4
+- Verses
+- Summary
+  - Additions
+  - Interpretations
+  - Double Renderings
+### Chapter 6: Proverbs 5
+- Verses
+- Summary
+  - Additions
+  - Interpretations
+  - Double Renderings
+### Chapter 7: Proverbs 6
+- Verses
+- Summary
+  - Additions
+  - Interpretations
+  - Double Renderings
+### Chapter 8: Proverbs 7
+- Verses
+- Summary
+  - Additions
+  - Interpretations
+  - Double Renderings
+### Chapter 9: Proverbs 8 
+- Verses
+- Summary
+  - Additions
+  - Interpretations
+  - Double Renderings
+### Chapter 10: Proverbs 9
+- Verses
+- Summary
+  - Additions
+  - Interpretations
+  - Double Renderings
+### Chapter 11: Conclusion
 
 ### Todo:
 - [x] 5000 word writing sample
@@ -21,7 +66,7 @@ Chapter 5: Conclusion
 |   Chapter | Additions                        | Interpretations                     | Doubles          | Other                            |
 | --------: | ----------                       | -------                             | ---------------- | -----                            |
 |         1 | 7ab,18b(?)                       | 5,12b,18a,19ab,22,23                | 7,14,21,27       | 10b(11a MT),21(2 -> 3 stichoi)   |
-|         2 | 2c(?),3c(?),17a                     | 7,10b,16ab,20ab                     | 2(?),3(?)19,21   | 13a(+ ὦ)                         |
+|         2 | 2c(?),3c(?),17a                  | 7,10b,16ab,20ab                     | 2(?),3(?)19,21   | 13a(+ ὦ)                         |
 |         3 | 6c,15bc,16a,16A,22A,28c(<-27:1b) | 3c,4a,12b,14ab,18b,22,27a,34a       |                  | 3c(omit),4a(-> 3c OG)            |
 |         4 | 27AB                             | 4a,4cHb(~>5aOG),15a                 | 10               | 7(omit),17b(act/pass)            |
 |         5 | 3a,23b                           | 2b,3c(3bHb),5abc,19                 |                  | 18a(confusion),13(a/b conflated) |
