@@ -105,6 +105,8 @@
 
 **Chapter 6 filled with difficulty
 
+## **THE ONLY PLACES IN GREEK PROVERBS 1-9 WHERE δὲ OCCURS IN NEIGHBORING LINES ARE DOUBLY RENDERED VERSES (exceptions: 6:10, 13; 7:3, 11, 22; 13:15(?); 22:12, 24:9, 25, 30:8, 24, 33) 15:1, 6; 29:25 double rendering; 17:5, 21 - inverse doubles?**
+
 ## Analyses
 
 ### Additions
