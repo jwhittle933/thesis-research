@@ -1,11 +1,12 @@
 # Doubles in OG Proverbs 1-9
 
 ## Type Classifications
-| Type       | Description                                                                                    |
-| :----:     | :-------                                                                                       |
-| <b>I</b>   | ABB<sup>2</sup>. The second Hebrew line is rendered twice, the first more free than the second |
-| <b>II</b>  | ABB<sup>2</sup>. The second Hebrew line is rendered twice, the second more free than the first |
-| <b>III</b> | ABA<sup>2</sup>B<sup>2</sup>, Tetracolon. Both lines apparently doubly rendered                |
+| Type        | Description                                                                                            |
+| :----:      | :-------                                                                                               |
+| <b>I</b>    | ABB<sup>2</sup>. The second Hebrew line is rendered twice, the first more free than the second         |
+| <b>II</b>   | ABB<sup>2</sup>. The second Hebrew line is rendered twice, the second more free than the first         |
+| <b>III</b>  | ABA<sup>2</sup>B<sup>2</sup>, Tetracolon. Inner two cola are freely rendered, outer two more literally |
+| <b>IIII</b> | ABA<sup>2</sup>B<sup>2</sup>, Tetracolon. Only A rendered freely.                                      |
 
 
 ## SubType Classifications
@@ -23,7 +24,7 @@
 | 2:2 | ὑπακούσεται σοφίας τὸ οὖς σου,<br>καὶ παραβαλεῖς καρδίαν σου εἰς σύνεσιν,<br>παραβαλεῖς δὲ αὐτὴν ἐπὶ νουθέτησιν τῷ υἱῷ σου. |להקשׁיב לחכמה אזנך<br> תטה לבך לתבונה      | <b>II</b> | |
 | 2:3 | ἐὰν γὰρ τὴν σοφίαν ἐπικαλέσῃ<br>καὶ τῇ συνέσει δῷς φωνήν σου,<br>τὴν δὲ αἴσθησιν ζητήσῃς μεγάλῃ τῇ φωνῇ  | כי אם לבינה תקרא<br> לתבונה תתן קולך     |  <b>II</b> | |
 | 2:19 | πάντες οἱ πορευόμενοι ἐν αὐτῇ οὐκ ἀναστρέψουσιν<br>οὐδὲ μὴ καταλάβωσιν τρίβους εὐθείας·<br>οὐ γὰρ καταλαμβάνονται ὑπὸ ἐνιαυτῶν ζωῆς. | כל באיה לא ישׁובון<br> ולא ישׂיגו ארחות חיים| <b>II</b> | <b>i</b> |
-| 2:21 | χρηστοὶ ἔσονται οἰκήτορες γῆς,<br>ἄκακοι δὲ ὑπολειφθήσονται ἐν αὐτῇ,<br>ὅτι εὐθεῖς κατασκηνώσουσι γῆν,<br>καὶ ὅσιοι ὑπολειφθήσονται ἐν αὐτῇ· | כי ישׁרים ישׁכנו ארץ<br> ותמימים יותרו בה | <b>III</b> | |
+| 2:21 | χρηστοὶ ἔσονται οἰκήτορες γῆς,<br>ἄκακοι δὲ ὑπολειφθήσονται ἐν αὐτῇ,<br>ὅτι εὐθεῖς κατασκηνώσουσι γῆν,<br>καὶ ὅσιοι ὑπολειφθήσονται ἐν αὐτῇ· | כי ישׁרים ישׁכנו ארץ<br> ותמימים יותרו בה | <b>IIII</b> | |
 | 3:15 | τιμωτέρα δέ ἐστιν λίθων πολυτελῶν<br>οὐκ ἀντιτάξεται αὐτῇ οὐδὲν πονηρόν<br>εὔγνωστός ἐστιν πᾶσιν τοῖς ἐγγίζουσιν αὐτῇ<br>πᾶν δὲ τίμιον οὐκ ἄξιον αὐτῆς ἐστιν | יקרה היא מפניים<br> וכל חפציך לא ישׁוו בה     | <b>III</b> | |
 | 4:10 | Ἀκούε, υἱέ, καὶ δέξαι ἐμοὺς λόγους,<br>καὶ πληθυνθήσεται ἔτη ζωῆς σου,<br>ἵνα σοι γένωνται πολλαὶ ὁδοὶ βίου | שׁמע בני וקח אמרי<br> וירבו לך שׁנות חיים     | <b>II</b> | |
 | 6:25 | μή σε νικήσῃ κάλλους ἐπιθυμία,<br>μηδὲ ἀγρουθῇς σοῖς ὀφθλαμοῖς<br>μηδὲ συναρπασθῇς ἀπὸ τῶν αὐτῆς βλεφάρων | אל תחמד יפיה בלבבך<br> ואל תקחך בעפעפיה      | <b>I</br> | |
