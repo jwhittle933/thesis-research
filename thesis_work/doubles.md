@@ -8,9 +8,10 @@
 
 
 ## SubType Classifications
-| SubType  | Description                                                           |
-| :----:   | :--------                                                             |
-| <b>i</b> | Portions of the doubly rendered line split across the two Greek lines |
+| SubType   | Description                                                           |
+| :----:    | :--------                                                             |
+| <b>i</b>  | Portions of the doubly rendered line split across the two Greek lines |
+| <b>ii</b> | Extraeous material not found in the _Vorlage_                         |
 
 ## Data
 | ref | LXX  | MT | Type    | SubType |
