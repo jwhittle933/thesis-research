@@ -1,66 +1,22 @@
 # Thesis
 **Title**: Re-reading the Sacred Text: A Translation Technical Study of Greek Proverbs 1-9
 
-### Chapter 1: Stichs and Stones: Scholarly Interactions with LXX Proverbs
-### Chapter 2: Proverbs 1
-- Verses
-- Summary
-  - Additions
-  - Interpretations
-  - Double Renderings
-### Chapter 3: Proverbs 2
-- Verses
-- Summary
-  - Additions
-  - Interpretations
-  - Double Renderings
-### Chapter 4: Proverbs 3
-- Verses
-- Summary
-  - Additions
-  - Interpretations
-  - Double Renderings
-### Chapter 5: Proverbs 4
-- Verses
-- Summary
-  - Additions
-  - Interpretations
-  - Double Renderings
-### Chapter 6: Proverbs 5
-- Verses
-- Summary
-  - Additions
-  - Interpretations
-  - Double Renderings
-### Chapter 7: Proverbs 6
-- Verses
-- Summary
-  - Additions
-  - Interpretations
-  - Double Renderings
-### Chapter 8: Proverbs 7
-- Verses
-- Summary
-  - Additions
-  - Interpretations
-  - Double Renderings
-### Chapter 9: Proverbs 8 
-- Verses
-- Summary
-  - Additions
-  - Interpretations
-  - Double Renderings
-### Chapter 10: Proverbs 9
-- Verses
-- Summary
-  - Additions
-  - Interpretations
-  - Double Renderings
-### Chapter 11: Conclusion
-
 ### Todo:
 - [x] 5000 word writing sample
 - [ ] Finish thesis (~30,000 words / 120 pages)
+  - [x] Emended: ~20,000, 50 pages
+
+### Doublet Categorizations
+Type I: 
+
+## Proposed theory of the origins of Double Renderings
+In all likelihood, some of the double renderings in 1-9 are original. In antiquity, this would have been known and detected. Perhaps, in the course of time after revisions were underway, a scribe, being aware of the double renderings in Proverbs, mistakenly added lines from later revisors because he thought they belonged in the text and fit the general pattern of translation. This process doesn't have to be attributed to one scribe. Once double translations were introduced that were not original, the difficulty of determining which lines belong and which don't compounds upon itself. In other words, the corrupted text begets a more corrupted text. 
+
+## Note
+Reading Greek Proverbs feels like reading a translation that was produced from memory, rather than copied from a _Vorlage_.
+
+# Spin-off Papter Topic
+```A Tale of Two Circles: Greek Proverbs 1:21b and 8:3b and Their Relationship```
 
 ## Data
 |   Chapter | Additions                        | Interpretations                     | Doubles          | Other                            |
@@ -121,6 +77,9 @@ Taken from Ps 111[110]:10, along with 7a:
 ἡ αἴνεσις αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος
 ```
 Joosten, "The relation of the Septuagint of Proverbs to Psalms" in Septuagint, Sages, and Scripture, 103, says, "The additional lines undoubtedly have their origin in the Psalms. The problem is that it is hard to know at what stage the addition was made. It is possible that the translator was the one who borrowed the addition from the Greek version of Psalms. But other scenarios can be imagined as well. The additional lines may have been present already in the Hebrew source text of Prov. 1:7. If so, the Greek translation could be original in Proverbs and borrowed in Psalms. Another possibility is that the additional lines were added into the Greek text of Proverbs secondarily, in the course of scribal transmission." Psalm 111[110] is a Psalm of praise (**Αλληλουια**, that praises God for his great works, enternal righteousness, and his mercy toward his people. Becuase OG 7a is a fair rendering of Hb 7a, one does have to wonder if OG 7b was inserted later, accidentally or intentionally. If this is true, we still lack explaination for OG 7c, unless we posit separate transmission histories and causes for each additional colon."
+
+**1:21bc** 
+Doubly rendered lines. If 1:14c was determined to be on original, 1:21c may also fit the description. Gk τειχέων may reflect Hb חמות, but this isn't necessary. The translatorhandles other occurences of המה without problems. 9:13 is an interesting example. Here, the lexeme is translated with θρασεῖα, the same root as θαρροῦσα in 1:21c. This may indicate that 21c is in fact original. The translator uses θρασύς several times throughout Greek Proverbs, in some cases these are freer translations or additions.
 
 #### Chapter 2
 Chapter 2 has largely been re-read with slightly new intention and meaning.
