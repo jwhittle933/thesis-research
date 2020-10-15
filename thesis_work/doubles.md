@@ -6,7 +6,7 @@
 | <b>I</b>    | ABB<sup>2</sup>. The second Hebrew line is rendered twice, the first more free than the second         |
 | <b>II</b>   | ABB<sup>2</sup>. The second Hebrew line is rendered twice, the second more free than the first         |
 | <b>III</b>  | ABA<sup>2</sup>B<sup>2</sup>, Tetracolon. Inner two cola are freely rendered, outer two more literally |
-| <b>IIII</b> | ABA<sup>2</sup>B<sup>2</sup>, Tetracolon. Only A rendered freely.                                      |
+| <b>IV</b> | ABA<sup>2</sup>B<sup>2</sup>, Tetracolon. Only A rendered freely.                                      |
 
 
 ## SubType Classifications
